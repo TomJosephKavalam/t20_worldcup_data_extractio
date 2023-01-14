@@ -1,0 +1,700 @@
+,Match,Player,Batting_position,Team,N/O,Runs,Balls Played,Minutes Played,Fours,Sixes,Strike Rate,Match Id
+0,Namibia vs Sri Lanka,Michael van Lingen,1,Namibia,out,3.0,6.0,7.0,0.0,0.0,50.0,1298135
+1,Namibia vs Sri Lanka,Divan la Cock,2,Namibia,out,9.0,9.0,15.0,1.0,0.0,100.0,1298135
+2,Namibia vs Sri Lanka,Jan Nicol Loftie-Eaton,3,Namibia,out,20.0,12.0,18.0,1.0,2.0,166.66,1298135
+3,Namibia vs Sri Lanka,Stephan Baard,4,Namibia,out,26.0,24.0,49.0,2.0,0.0,108.33,1298135
+4,Namibia vs Sri Lanka,Gerhard Erasmus,5,Namibia,out,20.0,24.0,30.0,0.0,0.0,83.33,1298135
+5,Namibia vs Sri Lanka,Jan Frylinck,6,Namibia,out,44.0,28.0,44.0,4.0,0.0,157.14,1298135
+6,Namibia vs Sri Lanka,David Wiese,7,Namibia,out,0.0,1.0,4.0,0.0,0.0,0.0,1298135
+7,Namibia vs Sri Lanka,JJ Smit,8,Namibia,out,31.0,16.0,29.0,2.0,2.0,193.75,1298135
+8,Namibia vs Sri Lanka,Pathum Nissanka,1,Sri Lanka,out,9.0,10.0,16.0,1.0,0.0,90.0,1298135
+9,Namibia vs Sri Lanka,Kusal Mendis,2,Sri Lanka,out,6.0,6.0,8.0,0.0,0.0,100.0,1298135
+10,Namibia vs Sri Lanka,Dhananjaya de Silva,3,Sri Lanka,out,12.0,11.0,25.0,1.0,0.0,109.09,1298135
+11,Namibia vs Sri Lanka,Danushka Gunathilaka,4,Sri Lanka,out,0.0,1.0,2.0,0.0,0.0,0.0,1298135
+12,Namibia vs Sri Lanka,Bhanuka Rajapaksa,5,Sri Lanka,out,20.0,21.0,39.0,2.0,0.0,95.23,1298135
+13,Namibia vs Sri Lanka,Dasun Shanaka,6,Sri Lanka,out,29.0,23.0,37.0,2.0,1.0,126.08,1298135
+14,Namibia vs Sri Lanka,Wanindu Hasaranga de Silva,7,Sri Lanka,out,4.0,8.0,9.0,0.0,0.0,50.0,1298135
+15,Namibia vs Sri Lanka,Chamika Karunaratne,8,Sri Lanka,out,5.0,8.0,15.0,0.0,0.0,62.5,1298135
+16,Namibia vs Sri Lanka,Pramod Madushan,9,Sri Lanka,out,0.0,0.0,4.0,0.0,0.0,0.0,1298135
+17,Namibia vs Sri Lanka,Dushmantha Chameera,10,Sri Lanka,out,8.0,15.0,20.0,0.0,0.0,53.33,1298135
+18,Namibia vs Sri Lanka,Maheesh Theekshana,11,Sri Lanka,out,11.0,11.0,14.0,0.0,1.0,100.0,1298135
+19,United Arab Emirates vs Netherlands,Chirag Suri,1,United Arab Emirates,out,12.0,20.0,28.0,1.0,0.0,60.0,1298136
+20,United Arab Emirates vs Netherlands,Muhammad Waseem,2,United Arab Emirates,out,41.0,47.0,71.0,1.0,2.0,87.23,1298136
+21,United Arab Emirates vs Netherlands,Kashif Daud,3,United Arab Emirates,out,15.0,14.0,19.0,0.0,1.0,107.14,1298136
+22,United Arab Emirates vs Netherlands,Vriitya Aravind,4,United Arab Emirates,out,18.0,21.0,37.0,0.0,0.0,85.71,1298136
+23,United Arab Emirates vs Netherlands,Zawar Farid,5,United Arab Emirates,out,2.0,4.0,8.0,0.0,0.0,50.0,1298136
+24,United Arab Emirates vs Netherlands,Basil Hameed,6,United Arab Emirates,out,4.0,4.0,7.0,1.0,0.0,100.0,1298136
+25,United Arab Emirates vs Netherlands,Chundangapoyil Rizwan,7,United Arab Emirates,out,1.0,2.0,7.0,0.0,0.0,50.0,1298136
+26,United Arab Emirates vs Netherlands,Aayan Afzal Khan,8,United Arab Emirates,out,5.0,7.0,8.0,0.0,0.0,71.42,1298136
+27,United Arab Emirates vs Netherlands,Karthik Meiyappan,9,United Arab Emirates,out,0.0,0.0,4.0,0.0,0.0,0.0,1298136
+28,United Arab Emirates vs Netherlands,Junaid Siddique,10,United Arab Emirates,out,0.0,1.0,1.0,0.0,0.0,0.0,1298136
+29,United Arab Emirates vs Netherlands,Vikramjit Singh,1,Netherlands,out,10.0,7.0,8.0,2.0,0.0,142.85,1298136
+30,United Arab Emirates vs Netherlands,Max O'Dowd,2,Netherlands,out,23.0,18.0,25.0,3.0,1.0,127.77,1298136
+31,United Arab Emirates vs Netherlands,Bas de Leede,3,Netherlands,out,14.0,18.0,37.0,1.0,0.0,77.77,1298136
+32,United Arab Emirates vs Netherlands,Colin Ackermann,4,Netherlands,out,17.0,19.0,33.0,1.0,0.0,89.47,1298136
+33,United Arab Emirates vs Netherlands,Tom Cooper,5,Netherlands,out,8.0,16.0,22.0,0.0,0.0,50.0,1298136
+34,United Arab Emirates vs Netherlands,Scott Edwards,6,Netherlands,out,16.0,19.0,42.0,0.0,0.0,84.21,1298136
+35,United Arab Emirates vs Netherlands,Roelof van der Merwe,7,Netherlands,out,0.0,2.0,4.0,0.0,0.0,0.0,1298136
+36,United Arab Emirates vs Netherlands,Tim Pringle,8,Netherlands,out,15.0,16.0,26.0,0.0,0.0,93.75,1298136
+37,United Arab Emirates vs Netherlands,Logan van Beek,9,Netherlands,out,4.0,4.0,7.0,0.0,0.0,100.0,1298136
+38,Scotland vs West Indies,George Munsey,1,Scotland,out,66.0,53.0,106.0,9.0,0.0,124.52,1298137
+39,Scotland vs West Indies,Michael Jones,2,Scotland,out,20.0,17.0,36.0,3.0,0.0,117.64,1298137
+40,Scotland vs West Indies,Matthew Cross,3,Scotland,out,3.0,5.0,10.0,0.0,0.0,60.0,1298137
+41,Scotland vs West Indies,Richie Berrington,4,Scotland,out,16.0,14.0,21.0,0.0,1.0,114.28,1298137
+42,Scotland vs West Indies,Calum MacLeod,5,Scotland,out,23.0,14.0,15.0,4.0,0.0,164.28,1298137
+43,Scotland vs West Indies,Michael Leask,6,Scotland,out,4.0,6.0,8.0,0.0,0.0,66.66,1298137
+44,Scotland vs West Indies,Chris Greaves,7,Scotland,out,16.0,11.0,19.0,2.0,0.0,145.45,1298137
+45,Scotland vs West Indies,Kyle Mayers,1,West Indies,out,20.0,13.0,12.0,3.0,1.0,153.84,1298137
+46,Scotland vs West Indies,Evin Lewis,2,West Indies,out,14.0,13.0,30.0,1.0,1.0,107.69,1298137
+47,Scotland vs West Indies,Brandon King,3,West Indies,out,17.0,15.0,24.0,3.0,0.0,113.33,1298137
+48,Scotland vs West Indies,Nicholas Pooran,4,West Indies,out,5.0,9.0,14.0,0.0,0.0,55.55,1298137
+49,Scotland vs West Indies,Shamarh Brooks,5,West Indies,out,4.0,9.0,24.0,0.0,0.0,44.44,1298137
+50,Scotland vs West Indies,Rovman Powell,6,West Indies,out,5.0,6.0,12.0,0.0,0.0,83.33,1298137
+51,Scotland vs West Indies,Jason Holder,7,West Indies,out,38.0,33.0,37.0,4.0,1.0,115.15,1298137
+52,Scotland vs West Indies,Akeal Hosein,8,West Indies,out,1.0,1.0,4.0,0.0,0.0,100.0,1298137
+53,Scotland vs West Indies,Alzarri Joseph,9,West Indies,out,0.0,1.0,4.0,0.0,0.0,0.0,1298137
+54,Scotland vs West Indies,Odean Smith,10,West Indies,out,5.0,8.0,14.0,0.0,0.0,62.5,1298137
+55,Scotland vs West Indies,Obed McCoy,11,West Indies,out,2.0,3.0,10.0,0.0,0.0,66.66,1298137
+56,Zimbabwe vs Ireland,Regis Chakabva,1,Zimbabwe,out,0.0,2.0,3.0,0.0,0.0,0.0,1298138
+57,Zimbabwe vs Ireland,Craig Ervine,2,Zimbabwe,out,9.0,12.0,28.0,1.0,0.0,75.0,1298138
+58,Zimbabwe vs Ireland,Wessly Madhevere,3,Zimbabwe,out,22.0,19.0,22.0,4.0,0.0,115.78,1298138
+59,Zimbabwe vs Ireland,Sean Williams,4,Zimbabwe,out,12.0,11.0,24.0,0.0,1.0,109.09,1298138
+60,Zimbabwe vs Ireland,Sikandar Raza,5,Zimbabwe,out,82.0,48.0,72.0,5.0,5.0,170.83,1298138
+61,Zimbabwe vs Ireland,Milton Shumba,6,Zimbabwe,out,16.0,14.0,26.0,1.0,0.0,114.28,1298138
+62,Zimbabwe vs Ireland,Ryan Burl,7,Zimbabwe,out,1.0,4.0,9.0,0.0,0.0,25.0,1298138
+63,Zimbabwe vs Ireland,Luke Jongwe,8,Zimbabwe,out,20.0,10.0,14.0,3.0,0.0,200.0,1298138
+64,Zimbabwe vs Ireland,Paul Stirling,1,Ireland,out,0.0,2.0,3.0,0.0,0.0,0.0,1298138
+65,Zimbabwe vs Ireland,Andy Balbirnie,2,Ireland,out,3.0,4.0,20.0,0.0,0.0,75.0,1298138
+66,Zimbabwe vs Ireland,Lorcan Tucker,3,Ireland,out,11.0,11.0,10.0,2.0,0.0,100.0,1298138
+67,Zimbabwe vs Ireland,Harry Tector,4,Ireland,out,1.0,4.0,5.0,0.0,0.0,25.0,1298138
+68,Zimbabwe vs Ireland,Curtis Campher,5,Ireland,out,27.0,22.0,41.0,1.0,0.0,122.72,1298138
+69,Zimbabwe vs Ireland,George Dockrell,6,Ireland,out,24.0,20.0,25.0,3.0,0.0,120.0,1298138
+70,Zimbabwe vs Ireland,Gareth Delany,7,Ireland,out,24.0,20.0,23.0,1.0,1.0,120.0,1298138
+71,Zimbabwe vs Ireland,Mark Adair,8,Ireland,out,9.0,10.0,18.0,0.0,1.0,90.0,1298138
+72,Zimbabwe vs Ireland,Simi Singh,9,Ireland,out,0.0,1.0,1.0,0.0,0.0,0.0,1298138
+73,Zimbabwe vs Ireland,Barry McCarthy,10,Ireland,out,22.0,16.0,23.0,1.0,2.0,137.5,1298138
+74,Zimbabwe vs Ireland,Josh Little,11,Ireland,out,7.0,11.0,17.0,1.0,0.0,63.63,1298138
+75,Namibia vs Netherlands,Michael van Lingen,1,Namibia,out,20.0,19.0,20.0,3.0,0.0,105.26,1298139
+76,Namibia vs Netherlands,Divan la Cock,2,Namibia,out,0.0,2.0,5.0,0.0,0.0,0.0,1298139
+77,Namibia vs Netherlands,Stephan Baard,3,Namibia,out,19.0,22.0,46.0,0.0,0.0,86.36,1298139
+78,Namibia vs Netherlands,Jan Nicol Loftie-Eaton,4,Namibia,out,0.0,2.0,3.0,0.0,0.0,0.0,1298139
+79,Namibia vs Netherlands,Jan Frylinck,5,Namibia,out,43.0,48.0,63.0,1.0,1.0,89.58,1298139
+80,Namibia vs Netherlands,Gerhard Erasmus,6,Namibia,out,16.0,18.0,37.0,0.0,0.0,88.88,1298139
+81,Namibia vs Netherlands,David Wiese,7,Namibia,out,11.0,5.0,8.0,1.0,0.0,220.0,1298139
+82,Namibia vs Netherlands,JJ Smit,8,Namibia,out,5.0,4.0,6.0,1.0,0.0,125.0,1298139
+83,Namibia vs Netherlands,Max O'Dowd,1,Netherlands,out,35.0,35.0,59.0,1.0,1.0,100.0,1298139
+84,Namibia vs Netherlands,Vikramjit Singh,2,Netherlands,out,39.0,31.0,37.0,3.0,2.0,125.8,1298139
+85,Namibia vs Netherlands,Bas de Leede,3,Netherlands,out,30.0,30.0,51.0,2.0,0.0,100.0,1298139
+86,Namibia vs Netherlands,Tom Cooper,4,Netherlands,out,6.0,6.0,7.0,1.0,0.0,100.0,1298139
+87,Namibia vs Netherlands,Colin Ackermann,5,Netherlands,out,0.0,2.0,2.0,0.0,0.0,0.0,1298139
+88,Namibia vs Netherlands,Scott Edwards,6,Netherlands,out,1.0,5.0,5.0,0.0,0.0,20.0,1298139
+89,Namibia vs Netherlands,Tim Pringle,7,Netherlands,out,8.0,9.0,14.0,0.0,0.0,88.88,1298139
+90,Sri Lanka vs United Arab Emirates,Pathum Nissanka,1,Sri Lanka,out,74.0,60.0,105.0,6.0,2.0,123.33,1298140
+91,Sri Lanka vs United Arab Emirates,Kusal Mendis,2,Sri Lanka,out,18.0,13.0,24.0,2.0,0.0,138.46,1298140
+92,Sri Lanka vs United Arab Emirates,Dhananjaya de Silva,3,Sri Lanka,out,33.0,21.0,30.0,3.0,1.0,157.14,1298140
+93,Sri Lanka vs United Arab Emirates,Bhanuka Rajapaksa,4,Sri Lanka,out,5.0,8.0,19.0,0.0,0.0,62.5,1298140
+94,Sri Lanka vs United Arab Emirates,Charith Asalanka,5,Sri Lanka,out,0.0,1.0,2.0,0.0,0.0,0.0,1298140
+95,Sri Lanka vs United Arab Emirates,Dasun Shanaka,6,Sri Lanka,out,0.0,1.0,2.0,0.0,0.0,0.0,1298140
+96,Sri Lanka vs United Arab Emirates,Wanindu Hasaranga de Silva,7,Sri Lanka,out,2.0,3.0,3.0,0.0,0.0,66.66,1298140
+97,Sri Lanka vs United Arab Emirates,Chamika Karunaratne,8,Sri Lanka,out,8.0,11.0,22.0,1.0,0.0,72.72,1298140
+98,Sri Lanka vs United Arab Emirates,Pramod Madushan,9,Sri Lanka,out,1.0,1.0,4.0,0.0,0.0,100.0,1298140
+99,Sri Lanka vs United Arab Emirates,Dushmantha Chameera,10,Sri Lanka,out,1.0,1.0,2.0,0.0,0.0,100.0,1298140
+100,Sri Lanka vs United Arab Emirates,Muhammad Waseem,1,United Arab Emirates,out,2.0,4.0,13.0,0.0,0.0,50.0,1298140
+101,Sri Lanka vs United Arab Emirates,Chirag Suri,2,United Arab Emirates,out,14.0,19.0,31.0,3.0,0.0,73.68,1298140
+102,Sri Lanka vs United Arab Emirates,Aryan Lakra,3,United Arab Emirates,out,1.0,3.0,4.0,0.0,0.0,33.33,1298140
+103,Sri Lanka vs United Arab Emirates,Chundangapoyil Rizwan,4,United Arab Emirates,out,1.0,3.0,8.0,0.0,0.0,33.33,1298140
+104,Sri Lanka vs United Arab Emirates,Vriitya Aravind,5,United Arab Emirates,out,9.0,18.0,26.0,1.0,0.0,50.0,1298140
+105,Sri Lanka vs United Arab Emirates,Basil Hameed,6,United Arab Emirates,out,2.0,6.0,14.0,0.0,0.0,33.33,1298140
+106,Sri Lanka vs United Arab Emirates,Aayan Afzal Khan,7,United Arab Emirates,out,19.0,21.0,33.0,1.0,0.0,90.47,1298140
+107,Sri Lanka vs United Arab Emirates,Kashif Daud,8,United Arab Emirates,out,0.0,4.0,8.0,0.0,0.0,0.0,1298140
+108,Sri Lanka vs United Arab Emirates,Karthik Meiyappan,9,United Arab Emirates,out,4.0,8.0,11.0,0.0,0.0,50.0,1298140
+109,Sri Lanka vs United Arab Emirates,Junaid Siddique,10,United Arab Emirates,out,18.0,16.0,22.0,1.0,1.0,112.5,1298140
+110,Sri Lanka vs United Arab Emirates,Zahoor Khan,11,United Arab Emirates,out,1.0,1.0,15.0,0.0,0.0,100.0,1298140
+111,Scotland vs Ireland,George Munsey,1,Scotland,out,1.0,2.0,9.0,0.0,0.0,50.0,1298141
+112,Scotland vs Ireland,Michael Jones,2,Scotland,out,86.0,55.0,95.0,6.0,4.0,156.36,1298141
+113,Scotland vs Ireland,Matthew Cross,3,Scotland,out,28.0,21.0,33.0,5.0,0.0,133.33,1298141
+114,Scotland vs Ireland,Richie Berrington,4,Scotland,out,37.0,27.0,39.0,3.0,1.0,137.03,1298141
+115,Scotland vs Ireland,Michael Leask,5,Scotland,out,17.0,13.0,19.0,2.0,0.0,130.76,1298141
+116,Scotland vs Ireland,Calum MacLeod,6,Scotland,out,0.0,3.0,6.0,0.0,0.0,0.0,1298141
+117,Scotland vs Ireland,Paul Stirling,1,Ireland,out,8.0,10.0,22.0,1.0,0.0,80.0,1298141
+118,Scotland vs Ireland,Andy Balbirnie,2,Ireland,out,14.0,12.0,15.0,2.0,0.0,116.66,1298141
+119,Scotland vs Ireland,Lorcan Tucker,3,Ireland,out,20.0,17.0,28.0,2.0,0.0,117.64,1298141
+120,Scotland vs Ireland,Harry Tector,4,Ireland,out,14.0,16.0,23.0,1.0,0.0,87.5,1298141
+121,Scotland vs Ireland,Curtis Campher,5,Ireland,out,72.0,32.0,48.0,7.0,2.0,225.0,1298141
+122,Scotland vs Ireland,George Dockrell,6,Ireland,out,39.0,27.0,42.0,4.0,1.0,144.44,1298141
+123,West Indies vs Zimbabwe,Kyle Mayers,1,West Indies,out,13.0,12.0,17.0,2.0,0.0,108.33,1298142
+124,West Indies vs Zimbabwe,Johnson Charles,2,West Indies,out,45.0,36.0,60.0,3.0,2.0,125.0,1298142
+125,West Indies vs Zimbabwe,Evin Lewis,3,West Indies,out,15.0,18.0,28.0,1.0,0.0,83.33,1298142
+126,West Indies vs Zimbabwe,Nicholas Pooran,4,West Indies,out,7.0,9.0,10.0,0.0,0.0,77.77,1298142
+127,West Indies vs Zimbabwe,Rovman Powell,5,West Indies,out,28.0,21.0,40.0,1.0,2.0,133.33,1298142
+128,West Indies vs Zimbabwe,Shamarh Brooks,6,West Indies,out,0.0,3.0,5.0,0.0,0.0,0.0,1298142
+129,West Indies vs Zimbabwe,Jason Holder,7,West Indies,out,4.0,3.0,3.0,0.0,0.0,133.33,1298142
+130,West Indies vs Zimbabwe,Akeal Hosein,8,West Indies,out,23.0,18.0,31.0,2.0,0.0,127.77,1298142
+131,West Indies vs Zimbabwe,Odean Smith,9,West Indies,out,1.0,2.0,2.0,0.0,0.0,50.0,1298142
+132,West Indies vs Zimbabwe,Wessly Madhevere,1,Zimbabwe,out,27.0,19.0,37.0,3.0,1.0,142.1,1298142
+133,West Indies vs Zimbabwe,Regis Chakabva,2,Zimbabwe,out,13.0,9.0,14.0,3.0,0.0,144.44,1298142
+134,West Indies vs Zimbabwe,Tony Munyonga,3,Zimbabwe,out,2.0,6.0,12.0,0.0,0.0,33.33,1298142
+135,West Indies vs Zimbabwe,Sean Williams,4,Zimbabwe,out,1.0,2.0,4.0,0.0,0.0,50.0,1298142
+136,West Indies vs Zimbabwe,Sikandar Raza,5,Zimbabwe,out,14.0,8.0,12.0,1.0,1.0,175.0,1298142
+137,West Indies vs Zimbabwe,Milton Shumba,6,Zimbabwe,out,2.0,9.0,20.0,0.0,0.0,22.22,1298142
+138,West Indies vs Zimbabwe,Ryan Burl,7,Zimbabwe,out,17.0,19.0,30.0,3.0,0.0,89.47,1298142
+139,West Indies vs Zimbabwe,Luke Jongwe,8,Zimbabwe,out,29.0,22.0,31.0,3.0,1.0,131.81,1298142
+140,West Indies vs Zimbabwe,Richard Ngarava,9,Zimbabwe,out,2.0,6.0,11.0,0.0,0.0,33.33,1298142
+141,West Indies vs Zimbabwe,Tendai Chatara,10,Zimbabwe,out,3.0,8.0,12.0,0.0,0.0,37.5,1298142
+142,West Indies vs Zimbabwe,Blessing Muzarabani,11,Zimbabwe,out,1.0,4.0,4.0,0.0,0.0,25.0,1298142
+143,Sri Lanka vs Netherlands,Pathum Nissanka,1,Sri Lanka,out,14.0,21.0,25.0,0.0,1.0,66.66,1298143
+144,Sri Lanka vs Netherlands,Kusal Mendis,2,Sri Lanka,out,79.0,44.0,94.0,5.0,5.0,179.54,1298143
+145,Sri Lanka vs Netherlands,Dhananjaya de Silva,3,Sri Lanka,out,0.0,1.0,2.0,0.0,0.0,0.0,1298143
+146,Sri Lanka vs Netherlands,Charith Asalanka,4,Sri Lanka,out,31.0,30.0,38.0,3.0,0.0,103.33,1298143
+147,Sri Lanka vs Netherlands,Bhanuka Rajapaksa,5,Sri Lanka,out,19.0,13.0,18.0,2.0,0.0,146.15,1298143
+148,Sri Lanka vs Netherlands,Dasun Shanaka,6,Sri Lanka,out,8.0,5.0,9.0,0.0,1.0,160.0,1298143
+149,Sri Lanka vs Netherlands,Wanindu Hasaranga de Silva,7,Sri Lanka,out,5.0,4.0,8.0,0.0,0.0,125.0,1298143
+150,Sri Lanka vs Netherlands,Chamika Karunaratne,8,Sri Lanka,out,2.0,2.0,4.0,0.0,0.0,100.0,1298143
+151,Sri Lanka vs Netherlands,Max O'Dowd,1,Netherlands,out,71.0,53.0,99.0,6.0,3.0,133.96,1298143
+152,Sri Lanka vs Netherlands,Vikramjit Singh,2,Netherlands,out,7.0,14.0,18.0,0.0,0.0,50.0,1298143
+153,Sri Lanka vs Netherlands,Bas de Leede,3,Netherlands,out,14.0,10.0,12.0,1.0,1.0,140.0,1298143
+154,Sri Lanka vs Netherlands,Colin Ackermann,4,Netherlands,out,0.0,1.0,4.0,0.0,0.0,0.0,1298143
+155,Sri Lanka vs Netherlands,Tom Cooper,5,Netherlands,out,16.0,19.0,23.0,2.0,0.0,84.21,1298143
+156,Sri Lanka vs Netherlands,Scott Edwards,6,Netherlands,out,21.0,15.0,16.0,3.0,0.0,140.0,1298143
+157,Sri Lanka vs Netherlands,Tim Pringle,7,Netherlands,out,2.0,4.0,8.0,0.0,0.0,50.0,1298143
+158,Sri Lanka vs Netherlands,Timm van der Gugten,8,Netherlands,out,0.0,1.0,2.0,0.0,0.0,0.0,1298143
+159,Sri Lanka vs Netherlands,Fred Klaassen,9,Netherlands,out,3.0,3.0,5.0,0.0,0.0,100.0,1298143
+160,Sri Lanka vs Netherlands,Paul van Meekeren,10,Netherlands,out,0.0,0.0,4.0,0.0,0.0,0.0,1298143
+161,Sri Lanka vs Netherlands,Roelof van der Merwe,11,Netherlands,out,0.0,1.0,14.0,0.0,0.0,0.0,1298143
+162,United Arab Emirates vs Namibia,Muhammad Waseem,1,United Arab Emirates,out,50.0,41.0,66.0,1.0,3.0,121.95,1298144
+163,United Arab Emirates vs Namibia,Vriitya Aravind,2,United Arab Emirates,out,21.0,32.0,34.0,2.0,0.0,65.62,1298144
+164,United Arab Emirates vs Namibia,Chundangapoyil Rizwan,3,United Arab Emirates,out,43.0,29.0,55.0,3.0,1.0,148.27,1298144
+165,United Arab Emirates vs Namibia,Alishan Sharafu,4,United Arab Emirates,out,4.0,4.0,10.0,0.0,0.0,100.0,1298144
+166,United Arab Emirates vs Namibia,Basil Hameed,5,United Arab Emirates,out,25.0,14.0,13.0,2.0,2.0,178.57,1298144
+167,United Arab Emirates vs Namibia,Michael van Lingen,1,Namibia,out,10.0,8.0,14.0,1.0,0.0,125.0,1298144
+168,United Arab Emirates vs Namibia,Stephan Baard,2,Namibia,out,4.0,6.0,9.0,1.0,0.0,66.66,1298144
+169,United Arab Emirates vs Namibia,Jan Nicol Loftie-Eaton,3,Namibia,out,1.0,6.0,17.0,0.0,0.0,16.66,1298144
+170,United Arab Emirates vs Namibia,Gerhard Erasmus,4,Namibia,out,16.0,18.0,23.0,2.0,0.0,88.88,1298144
+171,United Arab Emirates vs Namibia,Jan Frylinck,5,Namibia,out,14.0,17.0,33.0,1.0,0.0,82.35,1298144
+172,United Arab Emirates vs Namibia,JJ Smit,6,Namibia,out,3.0,3.0,3.0,0.0,0.0,100.0,1298144
+173,United Arab Emirates vs Namibia,David Wiese,7,Namibia,out,55.0,36.0,65.0,3.0,3.0,152.77,1298144
+174,United Arab Emirates vs Namibia,Zane Green,8,Namibia,out,2.0,3.0,3.0,0.0,0.0,66.66,1298144
+175,United Arab Emirates vs Namibia,Ruben Trumpelmann,9,Namibia,out,25.0,24.0,43.0,1.0,1.0,104.16,1298144
+176,United Arab Emirates vs Namibia,Bernard Scholtz,10,Namibia,out,1.0,1.0,0.0,0.0,0.0,100.0,1298144
+177,West Indies vs Ireland,Kyle Mayers,1,West Indies,out,1.0,5.0,12.0,0.0,0.0,20.0,1298145
+178,West Indies vs Ireland,Johnson Charles,2,West Indies,out,24.0,18.0,22.0,3.0,1.0,133.33,1298145
+179,West Indies vs Ireland,Evin Lewis,3,West Indies,out,13.0,18.0,42.0,0.0,0.0,72.22,1298145
+180,West Indies vs Ireland,Brandon King,4,West Indies,out,62.0,48.0,80.0,6.0,1.0,129.16,1298145
+181,West Indies vs Ireland,Nicholas Pooran,5,West Indies,out,13.0,11.0,16.0,0.0,1.0,118.18,1298145
+182,West Indies vs Ireland,Rovman Powell,6,West Indies,out,6.0,8.0,12.0,1.0,0.0,75.0,1298145
+183,West Indies vs Ireland,Odean Smith,7,West Indies,out,19.0,12.0,18.0,1.0,2.0,158.33,1298145
+184,West Indies vs Ireland,Paul Stirling,1,Ireland,out,66.0,48.0,79.0,6.0,2.0,137.5,1298145
+185,West Indies vs Ireland,Andy Balbirnie,2,Ireland,out,37.0,23.0,34.0,3.0,3.0,160.86,1298145
+186,West Indies vs Ireland,Lorcan Tucker,3,Ireland,out,45.0,35.0,46.0,2.0,2.0,128.57,1298145
+187,Scotland vs Zimbabwe,George Munsey,1,Scotland,out,54.0,51.0,74.0,7.0,0.0,105.88,1298146
+188,Scotland vs Zimbabwe,Michael Jones,2,Scotland,out,4.0,5.0,6.0,1.0,0.0,80.0,1298146
+189,Scotland vs Zimbabwe,Matthew Cross,3,Scotland,out,1.0,7.0,15.0,0.0,0.0,14.28,1298146
+190,Scotland vs Zimbabwe,Richie Berrington,4,Scotland,out,13.0,15.0,24.0,0.0,0.0,86.66,1298146
+191,Scotland vs Zimbabwe,Calum MacLeod,5,Scotland,out,25.0,26.0,46.0,1.0,0.0,96.15,1298146
+192,Scotland vs Zimbabwe,Michael Leask,6,Scotland,out,12.0,9.0,11.0,2.0,0.0,133.33,1298146
+193,Scotland vs Zimbabwe,Chris Greaves,7,Scotland,out,3.0,7.0,10.0,0.0,0.0,42.85,1298146
+194,Scotland vs Zimbabwe,Josh Davey,8,Scotland,out,4.0,3.0,3.0,0.0,0.0,133.33,1298146
+195,Scotland vs Zimbabwe,Regis Chakabva,1,Zimbabwe,out,4.0,3.0,3.0,1.0,0.0,133.33,1298146
+196,Scotland vs Zimbabwe,Craig Ervine,2,Zimbabwe,out,58.0,54.0,79.0,6.0,0.0,107.4,1298146
+197,Scotland vs Zimbabwe,Wessly Madhevere,3,Zimbabwe,out,0.0,5.0,8.0,0.0,0.0,0.0,1298146
+198,Scotland vs Zimbabwe,Sean Williams,4,Zimbabwe,out,7.0,12.0,28.0,0.0,0.0,58.33,1298146
+199,Scotland vs Zimbabwe,Sikandar Raza,5,Zimbabwe,out,40.0,23.0,34.0,3.0,2.0,173.91,1298146
+200,Scotland vs Zimbabwe,Milton Shumba,6,Zimbabwe,out,11.0,11.0,16.0,0.0,0.0,100.0,1298146
+201,Scotland vs Zimbabwe,Ryan Burl,7,Zimbabwe,out,9.0,5.0,7.0,1.0,0.0,180.0,1298146
+202,New Zealand vs Australia,Finn Allen,1,New Zealand,out,42.0,16.0,24.0,5.0,3.0,262.5,1298147
+203,New Zealand vs Australia,Devon Conway,2,New Zealand,out,92.0,58.0,106.0,7.0,2.0,158.62,1298147
+204,New Zealand vs Australia,Kane Williamson,3,New Zealand,out,23.0,23.0,48.0,1.0,1.0,100.0,1298147
+205,New Zealand vs Australia,Glenn Phillips,4,New Zealand,out,12.0,10.0,16.0,2.0,0.0,120.0,1298147
+206,New Zealand vs Australia,James Neesham,5,New Zealand,out,26.0,13.0,19.0,0.0,2.0,200.0,1298147
+207,New Zealand vs Australia,David Warner,1,Australia,out,5.0,6.0,7.0,1.0,0.0,83.33,1298147
+208,New Zealand vs Australia,Aaron Finch,2,Australia,out,13.0,11.0,20.0,1.0,1.0,118.18,1298147
+209,New Zealand vs Australia,Mitchell Marsh,3,Australia,out,16.0,12.0,17.0,2.0,1.0,133.33,1298147
+210,New Zealand vs Australia,Glenn Maxwell,4,Australia,out,28.0,20.0,47.0,3.0,1.0,140.0,1298147
+211,New Zealand vs Australia,Marcus Stoinis,5,Australia,out,7.0,14.0,16.0,0.0,0.0,50.0,1298147
+212,New Zealand vs Australia,Tim David,6,Australia,out,11.0,8.0,12.0,0.0,1.0,137.5,1298147
+213,New Zealand vs Australia,Matthew Wade,7,Australia,out,2.0,4.0,10.0,0.0,0.0,50.0,1298147
+214,New Zealand vs Australia,Pat Cummins,8,Australia,out,21.0,18.0,27.0,2.0,1.0,116.66,1298147
+215,New Zealand vs Australia,Mitchell Starc,9,Australia,out,4.0,7.0,13.0,0.0,0.0,57.14,1298147
+216,New Zealand vs Australia,Adam Zampa,10,Australia,out,0.0,2.0,3.0,0.0,0.0,0.0,1298147
+217,New Zealand vs Australia,Josh Hazlewood,11,Australia,out,1.0,1.0,6.0,0.0,0.0,100.0,1298147
+218,Afghanistan vs England,Hazratullah Zazai,1,Afghanistan,out,7.0,17.0,31.0,1.0,0.0,41.17,1298148
+219,Afghanistan vs England,Rahmanullah Gurbaz,2,Afghanistan,out,10.0,9.0,13.0,0.0,1.0,111.11,1298148
+220,Afghanistan vs England,Ibrahim Zadran,3,Afghanistan,out,32.0,32.0,41.0,3.0,1.0,100.0,1298148
+221,Afghanistan vs England,Usman Ghani,4,Afghanistan,out,30.0,30.0,60.0,3.0,0.0,100.0,1298148
+222,Afghanistan vs England,Najibullah Zadran,5,Afghanistan,out,13.0,11.0,15.0,0.0,1.0,118.18,1298148
+223,Afghanistan vs England,Mohammad Nabi,6,Afghanistan,out,3.0,5.0,7.0,0.0,0.0,60.0,1298148
+224,Afghanistan vs England,Azmatullah Omarzai,7,Afghanistan,out,8.0,6.0,11.0,1.0,0.0,133.33,1298148
+225,Afghanistan vs England,Rashid Khan,8,Afghanistan,out,0.0,1.0,2.0,0.0,0.0,0.0,1298148
+226,Afghanistan vs England,Mujeeb Ur Rahman,9,Afghanistan,out,0.0,1.0,3.0,0.0,0.0,0.0,1298148
+227,Afghanistan vs England,Fareed Ahmad,10,Afghanistan,out,2.0,4.0,7.0,0.0,0.0,50.0,1298148
+228,Afghanistan vs England,Fazalhaq Farooqi,11,Afghanistan,out,0.0,2.0,3.0,0.0,0.0,0.0,1298148
+229,Afghanistan vs England,Jos Buttler,1,England,out,18.0,18.0,25.0,3.0,0.0,100.0,1298148
+230,Afghanistan vs England,Alex Hales,2,England,out,19.0,20.0,41.0,0.0,1.0,95.0,1298148
+231,Afghanistan vs England,Dawid Malan,3,England,out,18.0,30.0,40.0,0.0,0.0,60.0,1298148
+232,Afghanistan vs England,Ben Stokes,4,England,out,2.0,4.0,11.0,0.0,0.0,50.0,1298148
+233,Afghanistan vs England,Liam Livingstone,5,England,out,29.0,21.0,34.0,3.0,0.0,138.09,1298148
+234,Afghanistan vs England,Harry Brook,6,England,out,7.0,6.0,9.0,0.0,0.0,116.66,1298148
+235,Afghanistan vs England,Moeen Ali,7,England,out,8.0,10.0,13.0,0.0,0.0,80.0,1298148
+236,Ireland vs Sri Lanka,Paul Stirling,1,Ireland,out,34.0,25.0,45.0,4.0,1.0,136.0,1298149
+237,Ireland vs Sri Lanka,Andy Balbirnie,2,Ireland,out,1.0,5.0,7.0,0.0,0.0,20.0,1298149
+238,Ireland vs Sri Lanka,Lorcan Tucker,3,Ireland,out,10.0,11.0,20.0,1.0,0.0,90.9,1298149
+239,Ireland vs Sri Lanka,Harry Tector,4,Ireland,out,45.0,42.0,59.0,2.0,1.0,107.14,1298149
+240,Ireland vs Sri Lanka,Curtis Campher,5,Ireland,out,2.0,4.0,6.0,0.0,0.0,50.0,1298149
+241,Ireland vs Sri Lanka,George Dockrell,6,Ireland,out,14.0,16.0,25.0,0.0,0.0,87.5,1298149
+242,Ireland vs Sri Lanka,Gareth Delany,7,Ireland,out,9.0,6.0,10.0,1.0,0.0,150.0,1298149
+243,Ireland vs Sri Lanka,Mark Adair,8,Ireland,out,0.0,1.0,5.0,0.0,0.0,0.0,1298149
+244,Ireland vs Sri Lanka,Simi Singh,9,Ireland,out,7.0,8.0,9.0,1.0,0.0,87.5,1298149
+245,Ireland vs Sri Lanka,Barry McCarthy,10,Ireland,out,2.0,2.0,7.0,0.0,0.0,100.0,1298149
+246,Ireland vs Sri Lanka,Kusal Mendis,1,Sri Lanka,out,68.0,43.0,68.0,5.0,3.0,158.13,1298149
+247,Ireland vs Sri Lanka,Dhananjaya de Silva,2,Sri Lanka,out,31.0,25.0,35.0,2.0,1.0,124.0,1298149
+248,Ireland vs Sri Lanka,Charith Asalanka,3,Sri Lanka,out,31.0,22.0,33.0,2.0,0.0,140.9,1298149
+249,Pakistan vs India,Mohammad Rizwan,1,Pakistan,out,4.0,12.0,25.0,1.0,0.0,33.33,1298150
+250,Pakistan vs India,Babar Azam,2,Pakistan,out,0.0,1.0,10.0,0.0,0.0,0.0,1298150
+251,Pakistan vs India,Shan Masood,3,Pakistan,out,52.0,42.0,101.0,5.0,0.0,123.8,1298150
+252,Pakistan vs India,Iftikhar Ahmed,4,Pakistan,out,51.0,34.0,43.0,2.0,4.0,150.0,1298150
+253,Pakistan vs India,Shadab Khan,5,Pakistan,out,5.0,6.0,6.0,1.0,0.0,83.33,1298150
+254,Pakistan vs India,Haider Ali,6,Pakistan,out,2.0,4.0,6.0,0.0,0.0,50.0,1298150
+255,Pakistan vs India,Mohammad Nawaz,7,Pakistan,out,9.0,6.0,12.0,2.0,0.0,150.0,1298150
+256,Pakistan vs India,Asif Ali,8,Pakistan,out,2.0,3.0,6.0,0.0,0.0,66.66,1298150
+257,Pakistan vs India,Shaheen Shah Afridi,9,Pakistan,out,16.0,8.0,17.0,1.0,1.0,200.0,1298150
+258,Pakistan vs India,Haris Rauf,10,Pakistan,out,6.0,4.0,3.0,0.0,1.0,150.0,1298150
+259,Pakistan vs India,KL Rahul,1,India,out,4.0,8.0,13.0,0.0,0.0,50.0,1298150
+260,Pakistan vs India,Rohit Sharma,2,India,out,4.0,7.0,20.0,0.0,0.0,57.14,1298150
+261,Pakistan vs India,Virat Kohli,3,India,out,82.0,53.0,98.0,6.0,4.0,154.71,1298150
+262,Pakistan vs India,Suryakumar Yadav,4,India,out,15.0,10.0,11.0,2.0,0.0,150.0,1298150
+263,Pakistan vs India,Axar Patel,5,India,out,2.0,3.0,7.0,0.0,0.0,66.66,1298150
+264,Pakistan vs India,Hardik Pandya,6,India,out,40.0,37.0,61.0,1.0,2.0,108.1,1298150
+265,Pakistan vs India,Dinesh Karthik,7,India,out,1.0,2.0,10.0,0.0,0.0,50.0,1298150
+266,Pakistan vs India,Ravichandran Ashwin,8,India,out,1.0,1.0,2.0,0.0,0.0,100.0,1298150
+267,Bangladesh vs Netherlands,Najmul Hossain Shanto,1,Bangladesh,out,25.0,20.0,31.0,4.0,0.0,125.0,1298151
+268,Bangladesh vs Netherlands,Soumya Sarkar,2,Bangladesh,out,14.0,14.0,24.0,2.0,0.0,100.0,1298151
+269,Bangladesh vs Netherlands,Litton Das,3,Bangladesh,out,9.0,11.0,17.0,0.0,0.0,81.81,1298151
+270,Bangladesh vs Netherlands,Shakib Al Hasan,4,Bangladesh,out,7.0,9.0,14.0,0.0,0.0,77.77,1298151
+271,Bangladesh vs Netherlands,Afif Hossain,5,Bangladesh,out,38.0,27.0,47.0,2.0,2.0,140.74,1298151
+272,Bangladesh vs Netherlands,Yasir Ali,6,Bangladesh,out,3.0,5.0,9.0,0.0,0.0,60.0,1298151
+273,Bangladesh vs Netherlands,Nurul Hasan,7,Bangladesh,out,13.0,18.0,28.0,0.0,0.0,72.22,1298151
+274,Bangladesh vs Netherlands,Mosaddek Hossain,8,Bangladesh,out,20.0,12.0,12.0,2.0,1.0,166.66,1298151
+275,Bangladesh vs Netherlands,Taskin Ahmed,9,Bangladesh,out,0.0,1.0,3.0,0.0,0.0,0.0,1298151
+276,Bangladesh vs Netherlands,Hasan Mahmud,10,Bangladesh,out,0.0,3.0,6.0,0.0,0.0,0.0,1298151
+277,Bangladesh vs Netherlands,Vikramjit Singh,1,Netherlands,out,0.0,1.0,4.0,0.0,0.0,0.0,1298151
+278,Bangladesh vs Netherlands,Max O'Dowd,2,Netherlands,out,8.0,8.0,21.0,0.0,1.0,100.0,1298151
+279,Bangladesh vs Netherlands,Bas de Leede,3,Netherlands,out,0.0,1.0,2.0,0.0,0.0,0.0,1298151
+280,Bangladesh vs Netherlands,Colin Ackermann,4,Netherlands,out,62.0,48.0,77.0,6.0,2.0,129.16,1298151
+281,Bangladesh vs Netherlands,Tom Cooper,5,Netherlands,out,0.0,0.0,2.0,0.0,0.0,0.0,1298151
+282,Bangladesh vs Netherlands,Scott Edwards,6,Netherlands,out,16.0,24.0,33.0,1.0,0.0,66.66,1298151
+283,Bangladesh vs Netherlands,Tim Pringle,7,Netherlands,out,1.0,6.0,5.0,0.0,0.0,16.66,1298151
+284,Bangladesh vs Netherlands,Logan van Beek,8,Netherlands,out,2.0,5.0,9.0,0.0,0.0,40.0,1298151
+285,Bangladesh vs Netherlands,Shariz Ahmad,9,Netherlands,out,9.0,8.0,9.0,1.0,0.0,112.5,1298151
+286,Bangladesh vs Netherlands,Fred Klaassen,10,Netherlands,out,7.0,6.0,20.0,0.0,0.0,116.66,1298151
+287,Bangladesh vs Netherlands,Paul van Meekeren,11,Netherlands,out,24.0,14.0,16.0,3.0,1.0,171.42,1298151
+288,Zimbabwe vs South Africa,Regis Chakabva,1,Zimbabwe,out,8.0,8.0,13.0,0.0,1.0,100.0,1298152
+289,Zimbabwe vs South Africa,Craig Ervine,2,Zimbabwe,out,2.0,6.0,11.0,0.0,0.0,33.33,1298152
+290,Zimbabwe vs South Africa,Sean Williams,3,Zimbabwe,out,1.0,1.0,10.0,0.0,0.0,100.0,1298152
+291,Zimbabwe vs South Africa,Sikandar Raza,4,Zimbabwe,out,0.0,2.0,3.0,0.0,0.0,0.0,1298152
+292,Zimbabwe vs South Africa,Wessly Madhevere,5,Zimbabwe,out,35.0,18.0,37.0,4.0,1.0,194.44,1298152
+293,Zimbabwe vs South Africa,Milton Shumba,6,Zimbabwe,out,18.0,20.0,32.0,2.0,0.0,90.0,1298152
+294,Zimbabwe vs South Africa,Quinton de Kock,1,South Africa,out,47.0,18.0,26.0,8.0,1.0,261.11,1298152
+295,Zimbabwe vs South Africa,Temba Bavuma,2,South Africa,out,2.0,2.0,26.0,0.0,0.0,100.0,1298152
+296,Sri Lanka vs Australia,Pathum Nissanka,1,Sri Lanka,out,40.0,45.0,65.0,2.0,0.0,88.88,1298153
+297,Sri Lanka vs Australia,Kusal Mendis,2,Sri Lanka,out,5.0,6.0,9.0,1.0,0.0,83.33,1298153
+298,Sri Lanka vs Australia,Dhananjaya de Silva,3,Sri Lanka,out,26.0,23.0,47.0,3.0,0.0,113.04,1298153
+299,Sri Lanka vs Australia,Charith Asalanka,4,Sri Lanka,out,38.0,25.0,45.0,3.0,2.0,152.0,1298153
+300,Sri Lanka vs Australia,Bhanuka Rajapaksa,5,Sri Lanka,out,7.0,5.0,9.0,1.0,0.0,140.0,1298153
+301,Sri Lanka vs Australia,Dasun Shanaka,6,Sri Lanka,out,3.0,5.0,6.0,0.0,0.0,60.0,1298153
+302,Sri Lanka vs Australia,Wanindu Hasaranga de Silva,7,Sri Lanka,out,1.0,4.0,8.0,0.0,0.0,25.0,1298153
+303,Sri Lanka vs Australia,Chamika Karunaratne,8,Sri Lanka,out,14.0,7.0,16.0,2.0,0.0,200.0,1298153
+304,Sri Lanka vs Australia,David Warner,1,Australia,out,11.0,10.0,26.0,0.0,0.0,110.0,1298153
+305,Sri Lanka vs Australia,Aaron Finch,2,Australia,out,31.0,42.0,89.0,0.0,1.0,73.8,1298153
+306,Sri Lanka vs Australia,Mitchell Marsh,3,Australia,out,17.0,17.0,20.0,1.0,1.0,100.0,1298153
+307,Sri Lanka vs Australia,Glenn Maxwell,4,Australia,out,23.0,12.0,21.0,2.0,2.0,191.66,1298153
+308,Sri Lanka vs Australia,Marcus Stoinis,5,Australia,out,59.0,18.0,22.0,4.0,6.0,327.77,1298153
+309,Ireland vs England,Paul Stirling,1,Ireland,out,14.0,8.0,16.0,1.0,1.0,175.0,1298154
+310,Ireland vs England,Andy Balbirnie,2,Ireland,out,62.0,47.0,74.0,5.0,2.0,131.91,1298154
+311,Ireland vs England,Lorcan Tucker,3,Ireland,out,34.0,27.0,42.0,3.0,1.0,125.92,1298154
+312,Ireland vs England,Harry Tector,4,Ireland,out,0.0,2.0,3.0,0.0,0.0,0.0,1298154
+313,Ireland vs England,Curtis Campher,5,Ireland,out,18.0,11.0,22.0,3.0,0.0,163.63,1298154
+314,Ireland vs England,George Dockrell,6,Ireland,out,0.0,1.0,2.0,0.0,0.0,0.0,1298154
+315,Ireland vs England,Gareth Delany,7,Ireland,out,12.0,10.0,22.0,1.0,0.0,120.0,1298154
+316,Ireland vs England,Mark Adair,8,Ireland,out,4.0,4.0,8.0,0.0,0.0,100.0,1298154
+317,Ireland vs England,Barry McCarthy,9,Ireland,out,3.0,3.0,4.0,0.0,0.0,100.0,1298154
+318,Ireland vs England,Fionn Hand,10,Ireland,out,1.0,2.0,4.0,0.0,0.0,50.0,1298154
+319,Ireland vs England,Josh Little,11,Ireland,out,0.0,1.0,3.0,0.0,0.0,0.0,1298154
+320,Ireland vs England,Jos Buttler,1,England,out,0.0,2.0,3.0,0.0,0.0,0.0,1298154
+321,Ireland vs England,Alex Hales,2,England,out,7.0,5.0,14.0,1.0,0.0,140.0,1298154
+322,Ireland vs England,Dawid Malan,3,England,out,35.0,37.0,66.0,2.0,0.0,94.59,1298154
+323,Ireland vs England,Ben Stokes,4,England,out,6.0,8.0,14.0,0.0,0.0,75.0,1298154
+324,Ireland vs England,Harry Brook,5,England,out,18.0,21.0,30.0,1.0,0.0,85.71,1298154
+325,Ireland vs England,Moeen Ali,6,England,out,24.0,12.0,18.0,3.0,1.0,200.0,1298154
+326,Ireland vs England,Liam Livingstone,7,England,out,1.0,2.0,7.0,0.0,0.0,50.0,1298154
+327,South Africa vs Bangladesh,Temba Bavuma,1,South Africa,out,2.0,6.0,6.0,0.0,0.0,33.33,1298156
+328,South Africa vs Bangladesh,Quinton de Kock,2,South Africa,out,63.0,38.0,77.0,7.0,3.0,165.78,1298156
+329,South Africa vs Bangladesh,Rilee Rossouw,3,South Africa,out,109.0,56.0,90.0,7.0,8.0,194.64,1298156
+330,South Africa vs Bangladesh,Tristan Stubbs,4,South Africa,out,7.0,7.0,9.0,1.0,0.0,100.0,1298156
+331,South Africa vs Bangladesh,Aiden Markram,5,South Africa,out,10.0,11.0,16.0,1.0,0.0,90.9,1298156
+332,South Africa vs Bangladesh,David Miller,6,South Africa,out,2.0,4.0,8.0,0.0,0.0,50.0,1298156
+333,South Africa vs Bangladesh,Wayne Parnell,7,South Africa,out,0.0,2.0,2.0,0.0,0.0,0.0,1298156
+334,South Africa vs Bangladesh,Najmul Hossain Shanto,1,Bangladesh,out,9.0,9.0,15.0,1.0,0.0,100.0,1298156
+335,South Africa vs Bangladesh,Soumya Sarkar,2,Bangladesh,out,15.0,6.0,11.0,0.0,2.0,250.0,1298156
+336,South Africa vs Bangladesh,Litton Das,3,Bangladesh,out,34.0,31.0,57.0,1.0,1.0,109.67,1298156
+337,South Africa vs Bangladesh,Shakib Al Hasan,4,Bangladesh,out,1.0,4.0,11.0,0.0,0.0,25.0,1298156
+338,South Africa vs Bangladesh,Afif Hossain,5,Bangladesh,out,1.0,5.0,8.0,0.0,0.0,20.0,1298156
+339,South Africa vs Bangladesh,Mehidy Hasan Miraz,6,Bangladesh,out,11.0,13.0,17.0,0.0,0.0,84.61,1298156
+340,South Africa vs Bangladesh,Mosaddek Hossain,7,Bangladesh,out,0.0,3.0,4.0,0.0,0.0,0.0,1298156
+341,South Africa vs Bangladesh,Nurul Hasan,8,Bangladesh,out,2.0,6.0,7.0,0.0,0.0,33.33,1298156
+342,South Africa vs Bangladesh,Taskin Ahmed,9,Bangladesh,out,10.0,17.0,22.0,1.0,0.0,58.82,1298156
+343,South Africa vs Bangladesh,Hasan Mahmud,10,Bangladesh,out,0.0,2.0,7.0,0.0,0.0,0.0,1298156
+344,South Africa vs Bangladesh,Mustafizur Rahman,11,Bangladesh,out,9.0,3.0,8.0,0.0,1.0,300.0,1298156
+345,India vs Netherlands,KL Rahul,1,India,out,9.0,12.0,12.0,1.0,0.0,75.0,1298157
+346,India vs Netherlands,Rohit Sharma,2,India,out,53.0,39.0,53.0,4.0,3.0,135.89,1298157
+347,India vs Netherlands,Virat Kohli,3,India,out,62.0,44.0,79.0,3.0,2.0,140.9,1298157
+348,India vs Netherlands,Suryakumar Yadav,4,India,out,51.0,25.0,38.0,7.0,1.0,204.0,1298157
+349,India vs Netherlands,Vikramjit Singh,1,Netherlands,out,1.0,9.0,13.0,0.0,0.0,11.11,1298157
+350,India vs Netherlands,Max O'Dowd,2,Netherlands,out,16.0,10.0,22.0,3.0,0.0,160.0,1298157
+351,India vs Netherlands,Bas de Leede,3,Netherlands,out,16.0,23.0,27.0,0.0,0.0,69.56,1298157
+352,India vs Netherlands,Colin Ackermann,4,Netherlands,out,17.0,21.0,31.0,1.0,0.0,80.95,1298157
+353,India vs Netherlands,Tom Cooper,5,Netherlands,out,9.0,12.0,12.0,0.0,0.0,75.0,1298157
+354,India vs Netherlands,Scott Edwards,6,Netherlands,out,5.0,8.0,21.0,0.0,0.0,62.5,1298157
+355,India vs Netherlands,Tim Pringle,7,Netherlands,out,20.0,15.0,14.0,1.0,1.0,133.33,1298157
+356,India vs Netherlands,Logan van Beek,8,Netherlands,out,3.0,5.0,11.0,0.0,0.0,60.0,1298157
+357,India vs Netherlands,Shariz Ahmad,9,Netherlands,out,16.0,11.0,18.0,2.0,0.0,145.45,1298157
+358,India vs Netherlands,Fred Klaassen,10,Netherlands,out,0.0,1.0,3.0,0.0,0.0,0.0,1298157
+359,India vs Netherlands,Paul van Meekeren,11,Netherlands,out,14.0,6.0,9.0,3.0,0.0,233.33,1298157
+360,Zimbabwe vs Pakistan,Wessly Madhevere,1,Zimbabwe,out,17.0,13.0,30.0,3.0,0.0,130.76,1298158
+361,Zimbabwe vs Pakistan,Craig Ervine,2,Zimbabwe,out,19.0,19.0,26.0,2.0,0.0,100.0,1298158
+362,Zimbabwe vs Pakistan,Milton Shumba,3,Zimbabwe,out,8.0,10.0,22.0,1.0,0.0,80.0,1298158
+363,Zimbabwe vs Pakistan,Sean Williams,4,Zimbabwe,out,31.0,28.0,37.0,3.0,0.0,110.71,1298158
+364,Zimbabwe vs Pakistan,Sikandar Raza,5,Zimbabwe,out,9.0,16.0,22.0,1.0,0.0,56.25,1298158
+365,Zimbabwe vs Pakistan,Regis Chakabva,6,Zimbabwe,out,0.0,1.0,2.0,0.0,0.0,0.0,1298158
+366,Zimbabwe vs Pakistan,Ryan Burl,7,Zimbabwe,out,10.0,15.0,30.0,0.0,0.0,66.66,1298158
+367,Zimbabwe vs Pakistan,Luke Jongwe,8,Zimbabwe,out,0.0,1.0,2.0,0.0,0.0,0.0,1298158
+368,Zimbabwe vs Pakistan,Brad Evans,9,Zimbabwe,out,19.0,15.0,24.0,0.0,1.0,126.66,1298158
+369,Zimbabwe vs Pakistan,Richard Ngarava,10,Zimbabwe,out,3.0,2.0,3.0,0.0,0.0,150.0,1298158
+370,Zimbabwe vs Pakistan,Mohammad Rizwan,1,Pakistan,out,14.0,16.0,23.0,1.0,1.0,87.5,1298158
+371,Zimbabwe vs Pakistan,Babar Azam,2,Pakistan,out,4.0,9.0,17.0,1.0,0.0,44.44,1298158
+372,Zimbabwe vs Pakistan,Shan Masood,3,Pakistan,out,44.0,38.0,61.0,3.0,0.0,115.78,1298158
+373,Zimbabwe vs Pakistan,Iftikhar Ahmed,4,Pakistan,out,5.0,10.0,16.0,1.0,0.0,50.0,1298158
+374,Zimbabwe vs Pakistan,Shadab Khan,5,Pakistan,out,17.0,14.0,27.0,0.0,1.0,121.42,1298158
+375,Zimbabwe vs Pakistan,Haider Ali,6,Pakistan,out,0.0,1.0,3.0,0.0,0.0,0.0,1298158
+376,Zimbabwe vs Pakistan,Mohammad Nawaz,7,Pakistan,out,22.0,18.0,36.0,1.0,1.0,122.22,1298158
+377,Zimbabwe vs Pakistan,Mohammad Wasim,8,Pakistan,out,12.0,13.0,29.0,2.0,0.0,92.3,1298158
+378,Zimbabwe vs Pakistan,Shaheen Shah Afridi,9,Pakistan,out,1.0,1.0,3.0,0.0,0.0,100.0,1298158
+379,New Zealand vs Sri Lanka,Finn Allen,1,New Zealand,out,1.0,3.0,3.0,0.0,0.0,33.33,1298161
+380,New Zealand vs Sri Lanka,Devon Conway,2,New Zealand,out,1.0,4.0,14.0,0.0,0.0,25.0,1298161
+381,New Zealand vs Sri Lanka,Kane Williamson,3,New Zealand,out,8.0,13.0,18.0,1.0,0.0,61.53,1298161
+382,New Zealand vs Sri Lanka,Glenn Phillips,4,New Zealand,out,104.0,64.0,87.0,10.0,4.0,162.5,1298161
+383,New Zealand vs Sri Lanka,Daryl Mitchell,5,New Zealand,out,22.0,24.0,52.0,0.0,0.0,91.66,1298161
+384,New Zealand vs Sri Lanka,James Neesham,6,New Zealand,out,5.0,8.0,15.0,0.0,0.0,62.5,1298161
+385,New Zealand vs Sri Lanka,Mitchell Santner,7,New Zealand,out,11.0,5.0,17.0,0.0,1.0,220.0,1298161
+386,New Zealand vs Sri Lanka,Ish Sodhi,8,New Zealand,out,1.0,1.0,3.0,0.0,0.0,100.0,1298161
+387,New Zealand vs Sri Lanka,Tim Southee,9,New Zealand,out,4.0,1.0,1.0,1.0,0.0,400.0,1298161
+388,New Zealand vs Sri Lanka,Pathum Nissanka,1,Sri Lanka,out,0.0,5.0,5.0,0.0,0.0,0.0,1298161
+389,New Zealand vs Sri Lanka,Kusal Mendis,2,Sri Lanka,out,4.0,3.0,9.0,1.0,0.0,133.33,1298161
+390,New Zealand vs Sri Lanka,Dhananjaya de Silva,3,Sri Lanka,out,0.0,3.0,8.0,0.0,0.0,0.0,1298161
+391,New Zealand vs Sri Lanka,Charith Asalanka,4,Sri Lanka,out,4.0,8.0,11.0,0.0,0.0,50.0,1298161
+392,New Zealand vs Sri Lanka,Bhanuka Rajapaksa,5,Sri Lanka,out,34.0,22.0,38.0,3.0,2.0,154.54,1298161
+393,New Zealand vs Sri Lanka,Chamika Karunaratne,6,Sri Lanka,out,3.0,8.0,13.0,0.0,0.0,37.5,1298161
+394,New Zealand vs Sri Lanka,Dasun Shanaka,7,Sri Lanka,out,35.0,32.0,49.0,4.0,1.0,109.37,1298161
+395,New Zealand vs Sri Lanka,Wanindu Hasaranga de Silva,8,Sri Lanka,out,4.0,6.0,6.0,1.0,0.0,66.66,1298161
+396,New Zealand vs Sri Lanka,Maheesh Theekshana,9,Sri Lanka,out,0.0,3.0,5.0,0.0,0.0,0.0,1298161
+397,New Zealand vs Sri Lanka,Kasun Rajitha,10,Sri Lanka,out,8.0,21.0,30.0,0.0,0.0,38.09,1298161
+398,New Zealand vs Sri Lanka,Lahiru Kumara,11,Sri Lanka,out,4.0,5.0,10.0,1.0,0.0,80.0,1298161
+399,Bangladesh vs Zimbabwe,Najmul Hossain Shanto,1,Bangladesh,out,71.0,55.0,77.0,7.0,1.0,129.09,1298162
+400,Bangladesh vs Zimbabwe,Soumya Sarkar,2,Bangladesh,out,0.0,2.0,9.0,0.0,0.0,0.0,1298162
+401,Bangladesh vs Zimbabwe,Litton Das,3,Bangladesh,out,14.0,12.0,22.0,3.0,0.0,116.66,1298162
+402,Bangladesh vs Zimbabwe,Shakib Al Hasan,4,Bangladesh,out,23.0,20.0,32.0,1.0,0.0,115.0,1298162
+403,Bangladesh vs Zimbabwe,Afif Hossain,5,Bangladesh,out,29.0,19.0,40.0,1.0,1.0,152.63,1298162
+404,Bangladesh vs Zimbabwe,Mosaddek Hossain,6,Bangladesh,out,7.0,10.0,18.0,0.0,0.0,70.0,1298162
+405,Bangladesh vs Zimbabwe,Nurul Hasan,7,Bangladesh,out,1.0,1.0,5.0,0.0,0.0,100.0,1298162
+406,Bangladesh vs Zimbabwe,Yasir Ali,8,Bangladesh,out,1.0,1.0,3.0,0.0,0.0,100.0,1298162
+407,Bangladesh vs Zimbabwe,Wessly Madhevere,1,Zimbabwe,out,4.0,3.0,1.0,1.0,0.0,133.33,1298162
+408,Bangladesh vs Zimbabwe,Craig Ervine,2,Zimbabwe,out,8.0,7.0,16.0,2.0,0.0,114.28,1298162
+409,Bangladesh vs Zimbabwe,Milton Shumba,3,Zimbabwe,out,8.0,15.0,24.0,1.0,0.0,53.33,1298162
+410,Bangladesh vs Zimbabwe,Sean Williams,4,Zimbabwe,out,64.0,42.0,75.0,8.0,0.0,152.38,1298162
+411,Bangladesh vs Zimbabwe,Sikandar Raza,5,Zimbabwe,out,0.0,3.0,4.0,0.0,0.0,0.0,1298162
+412,Bangladesh vs Zimbabwe,Regis Chakabva,6,Zimbabwe,out,15.0,19.0,24.0,0.0,0.0,78.94,1298162
+413,Bangladesh vs Zimbabwe,Ryan Burl,7,Zimbabwe,out,27.0,25.0,50.0,2.0,1.0,108.0,1298162
+414,Bangladesh vs Zimbabwe,Brad Evans,8,Zimbabwe,out,2.0,2.0,5.0,0.0,0.0,100.0,1298162
+415,Bangladesh vs Zimbabwe,Richard Ngarava,9,Zimbabwe,out,6.0,3.0,6.0,0.0,1.0,200.0,1298162
+416,Bangladesh vs Zimbabwe,Blessing Muzarabani,10,Zimbabwe,out,0.0,2.0,6.0,0.0,0.0,0.0,1298162
+417,Netherlands vs Pakistan,Stephan Myburgh,1,Netherlands,out,6.0,11.0,13.0,1.0,0.0,54.54,1298163
+418,Netherlands vs Pakistan,Max O'Dowd,2,Netherlands,out,8.0,13.0,41.0,0.0,0.0,61.53,1298163
+419,Netherlands vs Pakistan,Bas de Leede,3,Netherlands,out,6.0,16.0,15.0,1.0,0.0,37.5,1298163
+420,Netherlands vs Pakistan,Tom Cooper,4,Netherlands,out,1.0,2.0,4.0,0.0,0.0,50.0,1298163
+421,Netherlands vs Pakistan,Colin Ackermann,5,Netherlands,out,27.0,27.0,40.0,2.0,0.0,100.0,1298163
+422,Netherlands vs Pakistan,Scott Edwards,6,Netherlands,out,15.0,20.0,38.0,1.0,0.0,75.0,1298163
+423,Netherlands vs Pakistan,Roelof van der Merwe,7,Netherlands,out,5.0,6.0,12.0,0.0,0.0,83.33,1298163
+424,Netherlands vs Pakistan,Tim Pringle,8,Netherlands,out,5.0,8.0,15.0,0.0,0.0,62.5,1298163
+425,Netherlands vs Pakistan,Logan van Beek,9,Netherlands,out,6.0,9.0,18.0,0.0,0.0,66.66,1298163
+426,Netherlands vs Pakistan,Fred Klaassen,10,Netherlands,out,0.0,1.0,1.0,0.0,0.0,0.0,1298163
+427,Netherlands vs Pakistan,Paul van Meekeren,11,Netherlands,out,7.0,7.0,8.0,0.0,0.0,100.0,1298163
+428,Netherlands vs Pakistan,Mohammad Rizwan,1,Pakistan,out,49.0,39.0,66.0,5.0,0.0,125.64,1298163
+429,Netherlands vs Pakistan,Babar Azam,2,Pakistan,out,4.0,5.0,10.0,1.0,0.0,80.0,1298163
+430,Netherlands vs Pakistan,Fakhar Zaman,3,Pakistan,out,20.0,16.0,27.0,3.0,0.0,125.0,1298163
+431,Netherlands vs Pakistan,Shan Masood,4,Pakistan,out,12.0,16.0,35.0,0.0,0.0,75.0,1298163
+432,Netherlands vs Pakistan,Iftikhar Ahmed,5,Pakistan,out,6.0,5.0,10.0,0.0,0.0,120.0,1298163
+433,Netherlands vs Pakistan,Shadab Khan,6,Pakistan,out,4.0,2.0,2.0,1.0,0.0,200.0,1298163
+434,India vs South Africa,KL Rahul,1,India,out,9.0,14.0,25.0,0.0,1.0,64.28,1298164
+435,India vs South Africa,Rohit Sharma,2,India,out,15.0,14.0,22.0,1.0,1.0,107.14,1298164
+436,India vs South Africa,Virat Kohli,3,India,out,12.0,11.0,13.0,2.0,0.0,109.09,1298164
+437,India vs South Africa,Suryakumar Yadav,4,India,out,68.0,40.0,68.0,6.0,3.0,170.0,1298164
+438,India vs South Africa,Deepak Hooda,5,India,out,0.0,3.0,4.0,0.0,0.0,0.0,1298164
+439,India vs South Africa,Hardik Pandya,6,India,out,2.0,3.0,6.0,0.0,0.0,66.66,1298164
+440,India vs South Africa,Dinesh Karthik,7,India,out,6.0,15.0,33.0,0.0,0.0,40.0,1298164
+441,India vs South Africa,Ravichandran Ashwin,8,India,out,7.0,11.0,15.0,0.0,0.0,63.63,1298164
+442,India vs South Africa,Bhuvneshwar Kumar,9,India,out,4.0,6.0,9.0,0.0,0.0,66.66,1298164
+443,India vs South Africa,Mohammed Shami,10,India,out,0.0,2.0,5.0,0.0,0.0,0.0,1298164
+444,India vs South Africa,Arshdeep Singh,11,India,out,2.0,1.0,2.0,0.0,0.0,200.0,1298164
+445,India vs South Africa,Quinton de Kock,1,South Africa,out,1.0,3.0,7.0,0.0,0.0,33.33,1298164
+446,India vs South Africa,Temba Bavuma,2,South Africa,out,10.0,15.0,30.0,0.0,1.0,66.66,1298164
+447,India vs South Africa,Rilee Rossouw,3,South Africa,out,0.0,2.0,4.0,0.0,0.0,0.0,1298164
+448,India vs South Africa,Aiden Markram,4,South Africa,out,52.0,41.0,72.0,6.0,1.0,126.82,1298164
+449,India vs South Africa,David Miller,5,South Africa,out,59.0,46.0,78.0,4.0,3.0,128.26,1298164
+450,India vs South Africa,Tristan Stubbs,6,South Africa,out,6.0,6.0,15.0,1.0,0.0,100.0,1298164
+451,India vs South Africa,Wayne Parnell,7,South Africa,out,2.0,5.0,11.0,0.0,0.0,40.0,1298164
+452,Australia vs Ireland,David Warner,1,Australia,out,3.0,7.0,13.0,0.0,0.0,42.85,1298165
+453,Australia vs Ireland,Aaron Finch,2,Australia,out,63.0,44.0,87.0,5.0,3.0,143.18,1298165
+454,Australia vs Ireland,Mitchell Marsh,3,Australia,out,28.0,22.0,28.0,2.0,2.0,127.27,1298165
+455,Australia vs Ireland,Glenn Maxwell,4,Australia,out,13.0,9.0,18.0,0.0,1.0,144.44,1298165
+456,Australia vs Ireland,Marcus Stoinis,5,Australia,out,35.0,25.0,41.0,3.0,1.0,140.0,1298165
+457,Australia vs Ireland,Tim David,6,Australia,out,15.0,10.0,15.0,2.0,0.0,150.0,1298165
+458,Australia vs Ireland,Matthew Wade,7,Australia,out,7.0,3.0,7.0,1.0,0.0,233.33,1298165
+459,Australia vs Ireland,Paul Stirling,1,Ireland,out,11.0,7.0,11.0,1.0,1.0,157.14,1298165
+460,Australia vs Ireland,Andy Balbirnie,2,Ireland,out,6.0,7.0,11.0,0.0,1.0,85.71,1298165
+461,Australia vs Ireland,Lorcan Tucker,3,Ireland,out,71.0,48.0,81.0,9.0,1.0,147.91,1298165
+462,Australia vs Ireland,Harry Tector,4,Ireland,out,6.0,4.0,3.0,1.0,0.0,150.0,1298165
+463,Australia vs Ireland,Curtis Campher,5,Ireland,out,0.0,1.0,5.0,0.0,0.0,0.0,1298165
+464,Australia vs Ireland,George Dockrell,6,Ireland,out,0.0,4.0,4.0,0.0,0.0,0.0,1298165
+465,Australia vs Ireland,Gareth Delany,7,Ireland,out,14.0,10.0,27.0,2.0,0.0,140.0,1298165
+466,Australia vs Ireland,Mark Adair,8,Ireland,out,11.0,11.0,13.0,1.0,0.0,100.0,1298165
+467,Australia vs Ireland,Fionn Hand,9,Ireland,out,6.0,6.0,10.0,1.0,0.0,100.0,1298165
+468,Australia vs Ireland,Barry McCarthy,10,Ireland,out,3.0,7.0,16.0,0.0,0.0,42.85,1298165
+469,Australia vs Ireland,Josh Little,11,Ireland,out,1.0,5.0,6.0,0.0,0.0,20.0,1298165
+470,Afghanistan vs Sri Lanka,Rahmanullah Gurbaz,1,Afghanistan,out,28.0,24.0,33.0,2.0,2.0,116.66,1298166
+471,Afghanistan vs Sri Lanka,Usman Ghani,2,Afghanistan,out,27.0,27.0,54.0,2.0,1.0,100.0,1298166
+472,Afghanistan vs Sri Lanka,Ibrahim Zadran,3,Afghanistan,out,22.0,18.0,35.0,1.0,1.0,122.22,1298166
+473,Afghanistan vs Sri Lanka,Najibullah Zadran,4,Afghanistan,out,18.0,16.0,29.0,1.0,0.0,112.5,1298166
+474,Afghanistan vs Sri Lanka,Gulbadin Naib,5,Afghanistan,out,12.0,14.0,25.0,0.0,0.0,85.71,1298166
+475,Afghanistan vs Sri Lanka,Mohammad Nabi,6,Afghanistan,out,13.0,8.0,15.0,1.0,0.0,162.5,1298166
+476,Afghanistan vs Sri Lanka,Rashid Khan,7,Afghanistan,out,9.0,8.0,10.0,1.0,0.0,112.5,1298166
+477,Afghanistan vs Sri Lanka,Azmatullah Omarzai,8,Afghanistan,out,3.0,4.0,3.0,0.0,0.0,75.0,1298166
+478,Afghanistan vs Sri Lanka,Mujeeb Ur Rahman,9,Afghanistan,out,1.0,2.0,1.0,0.0,0.0,50.0,1298166
+479,Afghanistan vs Sri Lanka,Pathum Nissanka,1,Sri Lanka,out,10.0,10.0,10.0,2.0,0.0,100.0,1298166
+480,Afghanistan vs Sri Lanka,Kusal Mendis,2,Sri Lanka,out,25.0,27.0,33.0,2.0,1.0,92.59,1298166
+481,Afghanistan vs Sri Lanka,Dhananjaya de Silva,3,Sri Lanka,out,66.0,42.0,78.0,6.0,2.0,157.14,1298166
+482,Afghanistan vs Sri Lanka,Charith Asalanka,4,Sri Lanka,out,19.0,18.0,27.0,1.0,0.0,105.55,1298166
+483,Afghanistan vs Sri Lanka,Bhanuka Rajapaksa,5,Sri Lanka,out,18.0,14.0,24.0,3.0,0.0,128.57,1298166
+484,Afghanistan vs Sri Lanka,Dasun Shanaka,6,Sri Lanka,out,0.0,0.0,4.0,0.0,0.0,0.0,1298166
+485,England vs New Zealand,Jos Buttler,1,England,out,73.0,47.0,82.0,7.0,2.0,155.31,1298167
+486,England vs New Zealand,Alex Hales,2,England,out,52.0,40.0,46.0,7.0,1.0,130.0,1298167
+487,England vs New Zealand,Moeen Ali,3,England,out,5.0,6.0,13.0,0.0,0.0,83.33,1298167
+488,England vs New Zealand,Liam Livingstone,4,England,out,20.0,14.0,20.0,1.0,1.0,142.85,1298167
+489,England vs New Zealand,Harry Brook,5,England,out,7.0,3.0,6.0,0.0,1.0,233.33,1298167
+490,England vs New Zealand,Ben Stokes,6,England,out,8.0,7.0,11.0,0.0,0.0,114.28,1298167
+491,England vs New Zealand,Sam Curran,7,England,out,6.0,3.0,7.0,0.0,1.0,200.0,1298167
+492,England vs New Zealand,Dawid Malan,8,England,out,3.0,1.0,1.0,0.0,0.0,300.0,1298167
+493,England vs New Zealand,Finn Allen,1,New Zealand,out,16.0,11.0,25.0,0.0,1.0,145.45,1298167
+494,England vs New Zealand,Devon Conway,2,New Zealand,out,3.0,9.0,12.0,0.0,0.0,33.33,1298167
+495,England vs New Zealand,Kane Williamson,3,New Zealand,out,40.0,40.0,57.0,3.0,0.0,100.0,1298167
+496,England vs New Zealand,Glenn Phillips,4,New Zealand,out,62.0,36.0,64.0,4.0,3.0,172.22,1298167
+497,England vs New Zealand,James Neesham,5,New Zealand,out,6.0,3.0,7.0,1.0,0.0,200.0,1298167
+498,England vs New Zealand,Daryl Mitchell,6,New Zealand,out,3.0,5.0,10.0,0.0,0.0,60.0,1298167
+499,England vs New Zealand,Mitchell Santner,7,New Zealand,out,16.0,10.0,19.0,0.0,1.0,160.0,1298167
+500,England vs New Zealand,Ish Sodhi,8,New Zealand,out,6.0,6.0,4.0,0.0,0.0,100.0,1298167
+501,Zimbabwe vs Netherlands,Wessly Madhevere,1,Zimbabwe,out,1.0,5.0,9.0,0.0,0.0,20.0,1298168
+502,Zimbabwe vs Netherlands,Craig Ervine,2,Zimbabwe,out,3.0,12.0,18.0,0.0,0.0,25.0,1298168
+503,Zimbabwe vs Netherlands,Regis Chakabva,3,Zimbabwe,out,5.0,16.0,18.0,1.0,0.0,31.25,1298168
+504,Zimbabwe vs Netherlands,Sean Williams,4,Zimbabwe,out,28.0,23.0,39.0,3.0,0.0,121.73,1298168
+505,Zimbabwe vs Netherlands,Sikandar Raza,5,Zimbabwe,out,40.0,24.0,46.0,3.0,3.0,166.66,1298168
+506,Zimbabwe vs Netherlands,Milton Shumba,6,Zimbabwe,out,2.0,3.0,6.0,0.0,0.0,66.66,1298168
+507,Zimbabwe vs Netherlands,Ryan Burl,7,Zimbabwe,out,2.0,7.0,19.0,0.0,0.0,28.57,1298168
+508,Zimbabwe vs Netherlands,Luke Jongwe,8,Zimbabwe,out,6.0,8.0,12.0,0.0,0.0,75.0,1298168
+509,Zimbabwe vs Netherlands,Richard Ngarava,9,Zimbabwe,out,9.0,7.0,12.0,0.0,1.0,128.57,1298168
+510,Zimbabwe vs Netherlands,Tendai Chatara,10,Zimbabwe,out,6.0,7.0,15.0,0.0,0.0,85.71,1298168
+511,Zimbabwe vs Netherlands,Blessing Muzarabani,11,Zimbabwe,out,1.0,4.0,9.0,0.0,0.0,25.0,1298168
+512,Zimbabwe vs Netherlands,Stephan Myburgh,1,Netherlands,out,8.0,7.0,15.0,0.0,1.0,114.28,1298168
+513,Zimbabwe vs Netherlands,Max O'Dowd,2,Netherlands,out,52.0,47.0,70.0,8.0,1.0,110.63,1298168
+514,Zimbabwe vs Netherlands,Tom Cooper,3,Netherlands,out,32.0,29.0,42.0,2.0,1.0,110.34,1298168
+515,Zimbabwe vs Netherlands,Colin Ackermann,4,Netherlands,out,1.0,5.0,6.0,0.0,0.0,20.0,1298168
+516,Zimbabwe vs Netherlands,Bas de Leede,5,Netherlands,out,12.0,12.0,21.0,2.0,0.0,100.0,1298168
+517,Zimbabwe vs Netherlands,Scott Edwards,6,Netherlands,out,5.0,6.0,8.0,1.0,0.0,83.33,1298168
+518,Zimbabwe vs Netherlands,Roelof van der Merwe,7,Netherlands,out,0.0,3.0,6.0,0.0,0.0,0.0,1298168
+519,India vs Bangladesh,KL Rahul,1,India,out,50.0,32.0,49.0,3.0,4.0,156.25,1298169
+520,India vs Bangladesh,Rohit Sharma,2,India,out,2.0,8.0,18.0,0.0,0.0,25.0,1298169
+521,India vs Bangladesh,Virat Kohli,3,India,out,64.0,44.0,84.0,8.0,1.0,145.45,1298169
+522,India vs Bangladesh,Suryakumar Yadav,4,India,out,30.0,16.0,18.0,4.0,0.0,187.5,1298169
+523,India vs Bangladesh,Hardik Pandya,5,India,out,5.0,6.0,8.0,0.0,0.0,83.33,1298169
+524,India vs Bangladesh,Dinesh Karthik,6,India,out,7.0,5.0,12.0,1.0,0.0,140.0,1298169
+525,India vs Bangladesh,Axar Patel,7,India,out,7.0,6.0,6.0,1.0,0.0,116.66,1298169
+526,India vs Bangladesh,Ravichandran Ashwin,8,India,out,13.0,6.0,9.0,1.0,1.0,216.66,1298169
+527,India vs Bangladesh,Najmul Hossain Shanto,1,Bangladesh,out,21.0,25.0,50.0,1.0,1.0,84.0,1298169
+528,India vs Bangladesh,Litton Das,2,Bangladesh,out,60.0,27.0,40.0,7.0,3.0,222.22,1298169
+529,India vs Bangladesh,Shakib Al Hasan,3,Bangladesh,out,13.0,12.0,24.0,2.0,0.0,108.33,1298169
+530,India vs Bangladesh,Afif Hossain,4,Bangladesh,out,3.0,5.0,12.0,0.0,0.0,60.0,1298169
+531,India vs Bangladesh,Yasir Ali,5,Bangladesh,out,1.0,3.0,8.0,0.0,0.0,33.33,1298169
+532,India vs Bangladesh,Nurul Hasan,6,Bangladesh,out,25.0,14.0,29.0,2.0,1.0,178.57,1298169
+533,India vs Bangladesh,Mosaddek Hossain,7,Bangladesh,out,6.0,3.0,4.0,0.0,1.0,200.0,1298169
+534,India vs Bangladesh,Taskin Ahmed,8,Bangladesh,out,12.0,7.0,22.0,1.0,1.0,171.42,1298169
+535,Pakistan vs South Africa,Mohammad Rizwan,1,Pakistan,out,4.0,4.0,4.0,1.0,0.0,100.0,1298170
+536,Pakistan vs South Africa,Babar Azam,2,Pakistan,out,6.0,15.0,29.0,0.0,0.0,40.0,1298170
+537,Pakistan vs South Africa,Mohammad Haris,3,Pakistan,out,28.0,11.0,19.0,2.0,3.0,254.54,1298170
+538,Pakistan vs South Africa,Shan Masood,4,Pakistan,out,2.0,6.0,11.0,0.0,0.0,33.33,1298170
+539,Pakistan vs South Africa,Iftikhar Ahmed,5,Pakistan,out,51.0,35.0,73.0,3.0,2.0,145.71,1298170
+540,Pakistan vs South Africa,Mohammad Nawaz,6,Pakistan,out,28.0,22.0,32.0,4.0,1.0,127.27,1298170
+541,Pakistan vs South Africa,Shadab Khan,7,Pakistan,out,52.0,22.0,31.0,3.0,4.0,236.36,1298170
+542,Pakistan vs South Africa,Mohammad Wasim,8,Pakistan,out,0.0,1.0,1.0,0.0,0.0,0.0,1298170
+543,Pakistan vs South Africa,Naseem Shah,9,Pakistan,out,5.0,3.0,3.0,0.0,0.0,166.66,1298170
+544,Pakistan vs South Africa,Haris Rauf,10,Pakistan,out,3.0,2.0,2.0,0.0,0.0,150.0,1298170
+545,Pakistan vs South Africa,Temba Bavuma,1,South Africa,out,36.0,19.0,39.0,4.0,1.0,189.47,1298170
+546,Pakistan vs South Africa,Quinton de Kock,2,South Africa,out,0.0,5.0,6.0,0.0,0.0,0.0,1298170
+547,Pakistan vs South Africa,Rilee Rossouw,3,South Africa,out,7.0,6.0,10.0,0.0,1.0,116.66,1298170
+548,Pakistan vs South Africa,Aiden Markram,4,South Africa,out,20.0,14.0,28.0,4.0,0.0,142.85,1298170
+549,Pakistan vs South Africa,Heinrich Klaasen,5,South Africa,out,15.0,9.0,18.0,3.0,0.0,166.66,1298170
+550,Pakistan vs South Africa,Tristan Stubbs,6,South Africa,out,18.0,18.0,28.0,0.0,1.0,100.0,1298170
+551,Pakistan vs South Africa,Wayne Parnell,7,South Africa,out,3.0,4.0,9.0,0.0,0.0,75.0,1298170
+552,Pakistan vs South Africa,Kagiso Rabada,8,South Africa,out,1.0,2.0,11.0,0.0,0.0,50.0,1298170
+553,Pakistan vs South Africa,Anrich Nortje,9,South Africa,out,1.0,5.0,8.0,0.0,0.0,20.0,1298170
+554,Pakistan vs South Africa,Lungi Ngidi,10,South Africa,out,4.0,1.0,5.0,1.0,0.0,400.0,1298170
+555,Pakistan vs South Africa,Tabraiz Shamsi,11,South Africa,out,1.0,1.0,3.0,0.0,0.0,100.0,1298170
+556,New Zealand vs Ireland,Finn Allen,1,New Zealand,out,32.0,18.0,30.0,5.0,1.0,177.77,1298171
+557,New Zealand vs Ireland,Devon Conway,2,New Zealand,out,28.0,33.0,55.0,2.0,0.0,84.84,1298171
+558,New Zealand vs Ireland,Kane Williamson,3,New Zealand,out,61.0,35.0,59.0,5.0,3.0,174.28,1298171
+559,New Zealand vs Ireland,Glenn Phillips,4,New Zealand,out,17.0,9.0,9.0,2.0,1.0,188.88,1298171
+560,New Zealand vs Ireland,Daryl Mitchell,5,New Zealand,out,31.0,21.0,35.0,2.0,0.0,147.61,1298171
+561,New Zealand vs Ireland,James Neesham,6,New Zealand,out,0.0,1.0,3.0,0.0,0.0,0.0,1298171
+562,New Zealand vs Ireland,Mitchell Santner,7,New Zealand,out,0.0,1.0,2.0,0.0,0.0,0.0,1298171
+563,New Zealand vs Ireland,Tim Southee,8,New Zealand,out,1.0,2.0,7.0,0.0,0.0,50.0,1298171
+564,New Zealand vs Ireland,Paul Stirling,1,Ireland,out,37.0,27.0,39.0,3.0,1.0,137.03,1298171
+565,New Zealand vs Ireland,Andy Balbirnie,2,Ireland,out,30.0,25.0,36.0,0.0,3.0,120.0,1298171
+566,New Zealand vs Ireland,Lorcan Tucker,3,Ireland,out,13.0,14.0,30.0,0.0,0.0,92.85,1298171
+567,New Zealand vs Ireland,Harry Tector,4,Ireland,out,2.0,7.0,4.0,0.0,0.0,28.57,1298171
+568,New Zealand vs Ireland,Gareth Delany,5,Ireland,out,10.0,8.0,12.0,2.0,0.0,125.0,1298171
+569,New Zealand vs Ireland,George Dockrell,6,Ireland,out,23.0,15.0,24.0,3.0,0.0,153.33,1298171
+570,New Zealand vs Ireland,Curtis Campher,7,Ireland,out,7.0,7.0,10.0,1.0,0.0,100.0,1298171
+571,New Zealand vs Ireland,Fionn Hand,8,Ireland,out,5.0,3.0,7.0,1.0,0.0,166.66,1298171
+572,New Zealand vs Ireland,Mark Adair,9,Ireland,out,4.0,5.0,9.0,0.0,0.0,80.0,1298171
+573,New Zealand vs Ireland,Barry McCarthy,10,Ireland,out,6.0,5.0,10.0,0.0,0.0,120.0,1298171
+574,New Zealand vs Ireland,Josh Little,11,Ireland,out,8.0,4.0,3.0,0.0,1.0,200.0,1298171
+575,Australia vs Afghanistan,David Warner,1,Australia,out,25.0,18.0,28.0,5.0,0.0,138.88,1298172
+576,Australia vs Afghanistan,Cameron Green,2,Australia,out,3.0,2.0,12.0,0.0,0.0,150.0,1298172
+577,Australia vs Afghanistan,Mitchell Marsh,3,Australia,out,45.0,30.0,42.0,3.0,2.0,150.0,1298172
+578,Australia vs Afghanistan,Steven Smith,4,Australia,out,4.0,4.0,6.0,1.0,0.0,100.0,1298172
+579,Australia vs Afghanistan,Marcus Stoinis,5,Australia,out,25.0,21.0,41.0,0.0,2.0,119.04,1298172
+580,Australia vs Afghanistan,Glenn Maxwell,6,Australia,out,54.0,32.0,46.0,6.0,2.0,168.75,1298172
+581,Australia vs Afghanistan,Matthew Wade,7,Australia,out,6.0,8.0,14.0,1.0,0.0,75.0,1298172
+582,Australia vs Afghanistan,Pat Cummins,8,Australia,out,0.0,2.0,4.0,0.0,0.0,0.0,1298172
+583,Australia vs Afghanistan,Kane Richardson,9,Australia,out,1.0,1.0,6.0,0.0,0.0,100.0,1298172
+584,Australia vs Afghanistan,Adam Zampa,10,Australia,out,1.0,1.0,5.0,0.0,0.0,100.0,1298172
+585,Australia vs Afghanistan,Rahmanullah Gurbaz,1,Afghanistan,out,30.0,17.0,31.0,2.0,2.0,176.47,1298172
+586,Australia vs Afghanistan,Usman Ghani,2,Afghanistan,out,2.0,7.0,16.0,0.0,0.0,28.57,1298172
+587,Australia vs Afghanistan,Ibrahim Zadran,3,Afghanistan,out,26.0,33.0,55.0,2.0,0.0,78.78,1298172
+588,Australia vs Afghanistan,Gulbadin Naib,4,Afghanistan,out,39.0,23.0,38.0,3.0,2.0,169.56,1298172
+589,Australia vs Afghanistan,Mohammad Nabi,5,Afghanistan,out,1.0,2.0,10.0,0.0,0.0,50.0,1298172
+590,Australia vs Afghanistan,Najibullah Zadran,6,Afghanistan,out,0.0,2.0,3.0,0.0,0.0,0.0,1298172
+591,Australia vs Afghanistan,Darwish Rasooli,7,Afghanistan,out,15.0,13.0,28.0,1.0,0.0,115.38,1298172
+592,Australia vs Afghanistan,Rashid Khan,8,Afghanistan,out,48.0,23.0,27.0,3.0,4.0,208.69,1298172
+593,Australia vs Afghanistan,Naveen-ul-Haq,9,Afghanistan,out,0.0,0.0,4.0,0.0,0.0,0.0,1298172
+594,Sri Lanka vs England,Pathum Nissanka,1,Sri Lanka,out,67.0,45.0,70.0,2.0,5.0,148.88,1298173
+595,Sri Lanka vs England,Kusal Mendis,2,Sri Lanka,out,18.0,14.0,21.0,1.0,1.0,128.57,1298173
+596,Sri Lanka vs England,Dhananjaya de Silva,3,Sri Lanka,out,9.0,11.0,17.0,0.0,0.0,81.81,1298173
+597,Sri Lanka vs England,Charith Asalanka,4,Sri Lanka,out,8.0,9.0,15.0,0.0,0.0,88.88,1298173
+598,Sri Lanka vs England,Bhanuka Rajapaksa,5,Sri Lanka,out,22.0,22.0,41.0,3.0,0.0,100.0,1298173
+599,Sri Lanka vs England,Dasun Shanaka,6,Sri Lanka,out,3.0,8.0,12.0,0.0,0.0,37.5,1298173
+600,Sri Lanka vs England,Wanindu Hasaranga de Silva,7,Sri Lanka,out,9.0,9.0,13.0,1.0,0.0,100.0,1298173
+601,Sri Lanka vs England,Chamika Karunaratne,8,Sri Lanka,out,0.0,2.0,3.0,0.0,0.0,0.0,1298173
+602,Sri Lanka vs England,Maheesh Theekshana,9,Sri Lanka,out,0.0,0.0,2.0,0.0,0.0,0.0,1298173
+603,Sri Lanka vs England,Jos Buttler,1,England,out,28.0,23.0,35.0,2.0,1.0,121.73,1298173
+604,Sri Lanka vs England,Alex Hales,2,England,out,47.0,30.0,42.0,7.0,1.0,156.66,1298173
+605,Sri Lanka vs England,Ben Stokes,3,England,out,42.0,36.0,59.0,2.0,0.0,116.66,1298173
+606,Sri Lanka vs England,Harry Brook,4,England,out,4.0,5.0,9.0,0.0,0.0,80.0,1298173
+607,Sri Lanka vs England,Liam Livingstone,5,England,out,4.0,6.0,10.0,0.0,0.0,66.66,1298173
+608,Sri Lanka vs England,Moeen Ali,6,England,out,1.0,5.0,8.0,0.0,0.0,20.0,1298173
+609,Sri Lanka vs England,Sam Curran,7,England,out,6.0,11.0,16.0,0.0,0.0,54.54,1298173
+610,Sri Lanka vs England,Chris Woakes,8,England,out,5.0,3.0,11.0,1.0,0.0,166.66,1298173
+611,Netherlands vs South Africa,Stephan Myburgh,1,Netherlands,out,37.0,30.0,41.0,7.0,0.0,123.33,1298174
+612,Netherlands vs South Africa,Max O'Dowd,2,Netherlands,out,29.0,31.0,61.0,1.0,1.0,93.54,1298174
+613,Netherlands vs South Africa,Tom Cooper,3,Netherlands,out,35.0,19.0,30.0,2.0,2.0,184.21,1298174
+614,Netherlands vs South Africa,Colin Ackermann,4,Netherlands,out,41.0,26.0,31.0,3.0,2.0,157.69,1298174
+615,Netherlands vs South Africa,Bas de Leede,5,Netherlands,out,1.0,7.0,11.0,0.0,0.0,14.28,1298174
+616,Netherlands vs South Africa,Scott Edwards,6,Netherlands,out,12.0,7.0,11.0,2.0,0.0,171.42,1298174
+617,Netherlands vs South Africa,Quinton de Kock,1,South Africa,out,13.0,13.0,12.0,1.0,1.0,100.0,1298174
+618,Netherlands vs South Africa,Temba Bavuma,2,South Africa,out,20.0,20.0,26.0,2.0,0.0,100.0,1298174
+619,Netherlands vs South Africa,Rilee Rossouw,3,South Africa,out,25.0,19.0,29.0,2.0,0.0,131.57,1298174
+620,Netherlands vs South Africa,Aiden Markram,4,South Africa,out,17.0,13.0,30.0,2.0,0.0,130.76,1298174
+621,Netherlands vs South Africa,David Miller,5,South Africa,out,17.0,17.0,28.0,1.0,0.0,100.0,1298174
+622,Netherlands vs South Africa,Heinrich Klaasen,6,South Africa,out,21.0,18.0,27.0,0.0,1.0,116.66,1298174
+623,Netherlands vs South Africa,Wayne Parnell,7,South Africa,out,0.0,2.0,3.0,0.0,0.0,0.0,1298174
+624,Netherlands vs South Africa,Keshav Maharaj,8,South Africa,out,13.0,12.0,20.0,0.0,1.0,108.33,1298174
+625,Netherlands vs South Africa,Kagiso Rabada,9,South Africa,out,9.0,8.0,13.0,0.0,0.0,112.5,1298174
+626,Netherlands vs South Africa,Anrich Nortje,10,South Africa,out,4.0,1.0,2.0,1.0,0.0,400.0,1298174
+627,Bangladesh vs Pakistan,Najmul Hossain Shanto,1,Bangladesh,out,54.0,48.0,66.0,7.0,0.0,112.5,1298175
+628,Bangladesh vs Pakistan,Litton Das,2,Bangladesh,out,10.0,8.0,15.0,0.0,1.0,125.0,1298175
+629,Bangladesh vs Pakistan,Soumya Sarkar,3,Bangladesh,out,20.0,17.0,38.0,1.0,1.0,117.64,1298175
+630,Bangladesh vs Pakistan,Shakib Al Hasan,4,Bangladesh,out,0.0,1.0,4.0,0.0,0.0,0.0,1298175
+631,Bangladesh vs Pakistan,Afif Hossain,5,Bangladesh,out,24.0,20.0,47.0,3.0,0.0,120.0,1298175
+632,Bangladesh vs Pakistan,Mosaddek Hossain,6,Bangladesh,out,5.0,11.0,17.0,0.0,0.0,45.45,1298175
+633,Bangladesh vs Pakistan,Nurul Hasan,7,Bangladesh,out,0.0,3.0,4.0,0.0,0.0,0.0,1298175
+634,Bangladesh vs Pakistan,Taskin Ahmed,8,Bangladesh,out,1.0,5.0,8.0,0.0,0.0,20.0,1298175
+635,Bangladesh vs Pakistan,Nasum Ahmed,9,Bangladesh,out,7.0,6.0,9.0,1.0,0.0,116.66,1298175
+636,Bangladesh vs Pakistan,Mustafizur Rahman,10,Bangladesh,out,0.0,1.0,1.0,0.0,0.0,0.0,1298175
+637,Bangladesh vs Pakistan,Mohammad Rizwan,1,Pakistan,out,32.0,32.0,51.0,2.0,1.0,100.0,1298175
+638,Bangladesh vs Pakistan,Babar Azam,2,Pakistan,out,25.0,33.0,46.0,2.0,0.0,75.75,1298175
+639,Bangladesh vs Pakistan,Mohammad Nawaz,3,Pakistan,out,4.0,11.0,27.0,0.0,0.0,36.36,1298175
+640,Bangladesh vs Pakistan,Mohammad Haris,4,Pakistan,out,31.0,18.0,31.0,1.0,2.0,172.22,1298175
+641,Bangladesh vs Pakistan,Shan Masood,5,Pakistan,out,24.0,14.0,20.0,2.0,0.0,171.42,1298175
+642,Bangladesh vs Pakistan,Iftikhar Ahmed,6,Pakistan,out,1.0,3.0,8.0,0.0,0.0,33.33,1298175
+643,Bangladesh vs Pakistan,Shadab Khan,7,Pakistan,out,0.0,0.0,2.0,0.0,0.0,0.0,1298175
+644,India vs Zimbabwe,KL Rahul,1,India,out,51.0,35.0,59.0,3.0,3.0,145.71,1298176
+645,India vs Zimbabwe,Rohit Sharma,2,India,out,15.0,13.0,20.0,2.0,0.0,115.38,1298176
+646,India vs Zimbabwe,Virat Kohli,3,India,out,26.0,25.0,36.0,2.0,0.0,104.0,1298176
+647,India vs Zimbabwe,Suryakumar Yadav,4,India,out,61.0,25.0,44.0,6.0,4.0,244.0,1298176
+648,India vs Zimbabwe,Rishabh Pant,5,India,out,3.0,5.0,7.0,0.0,0.0,60.0,1298176
+649,India vs Zimbabwe,Hardik Pandya,6,India,out,18.0,18.0,29.0,2.0,0.0,100.0,1298176
+650,India vs Zimbabwe,Axar Patel,7,India,out,0.0,0.0,6.0,0.0,0.0,0.0,1298176
+651,India vs Zimbabwe,Wessly Madhevere,1,Zimbabwe,out,0.0,1.0,1.0,0.0,0.0,0.0,1298176
+652,India vs Zimbabwe,Craig Ervine,2,Zimbabwe,out,13.0,15.0,37.0,2.0,0.0,86.66,1298176
+653,India vs Zimbabwe,Regis Chakabva,3,Zimbabwe,out,0.0,6.0,9.0,0.0,0.0,0.0,1298176
+654,India vs Zimbabwe,Sean Williams,4,Zimbabwe,out,11.0,18.0,22.0,0.0,1.0,61.11,1298176
+655,India vs Zimbabwe,Sikandar Raza,5,Zimbabwe,out,34.0,24.0,53.0,3.0,0.0,141.66,1298176
+656,India vs Zimbabwe,Tony Munyonga,6,Zimbabwe,out,5.0,4.0,6.0,1.0,0.0,125.0,1298176
+657,India vs Zimbabwe,Ryan Burl,7,Zimbabwe,out,35.0,22.0,27.0,5.0,1.0,159.09,1298176
+658,India vs Zimbabwe,Wellington Masakadza,8,Zimbabwe,out,1.0,7.0,8.0,0.0,0.0,14.28,1298176
+659,India vs Zimbabwe,Richard Ngarava,9,Zimbabwe,out,1.0,2.0,4.0,0.0,0.0,50.0,1298176
+660,India vs Zimbabwe,Tendai Chatara,10,Zimbabwe,out,4.0,4.0,11.0,1.0,0.0,100.0,1298176
+661,India vs Zimbabwe,Blessing Muzarabani,11,Zimbabwe,out,0.0,2.0,5.0,0.0,0.0,0.0,1298176
+662,New Zealand vs Pakistan,Finn Allen,1,New Zealand,out,4.0,3.0,6.0,1.0,0.0,133.33,1298177
+663,New Zealand vs Pakistan,Devon Conway,2,New Zealand,out,21.0,20.0,35.0,3.0,0.0,105.0,1298177
+664,New Zealand vs Pakistan,Kane Williamson,3,New Zealand,out,46.0,42.0,81.0,1.0,1.0,109.52,1298177
+665,New Zealand vs Pakistan,Glenn Phillips,4,New Zealand,out,6.0,8.0,9.0,1.0,0.0,75.0,1298177
+666,New Zealand vs Pakistan,Daryl Mitchell,5,New Zealand,out,53.0,35.0,60.0,3.0,1.0,151.42,1298177
+667,New Zealand vs Pakistan,James Neesham,6,New Zealand,out,16.0,12.0,19.0,1.0,0.0,133.33,1298177
+668,New Zealand vs Pakistan,Mohammad Rizwan,1,Pakistan,out,57.0,43.0,77.0,5.0,0.0,132.55,1298177
+669,New Zealand vs Pakistan,Babar Azam,2,Pakistan,out,53.0,42.0,56.0,7.0,0.0,126.19,1298177
+670,New Zealand vs Pakistan,Mohammad Haris,3,Pakistan,out,30.0,26.0,32.0,2.0,1.0,115.38,1298177
+671,New Zealand vs Pakistan,Shan Masood,4,Pakistan,out,3.0,4.0,13.0,0.0,0.0,75.0,1298177
+672,New Zealand vs Pakistan,Iftikhar Ahmed,5,Pakistan,out,0.0,0.0,3.0,0.0,0.0,0.0,1298177
+673,India vs England,KL Rahul,1,India,out,5.0,5.0,8.0,1.0,0.0,100.0,1298178
+674,India vs England,Rohit Sharma,2,India,out,27.0,28.0,37.0,4.0,0.0,96.42,1298178
+675,India vs England,Virat Kohli,3,India,out,50.0,40.0,75.0,4.0,1.0,125.0,1298178
+676,India vs England,Suryakumar Yadav,4,India,out,14.0,10.0,14.0,1.0,1.0,140.0,1298178
+677,India vs England,Hardik Pandya,5,India,out,63.0,33.0,47.0,4.0,5.0,190.9,1298178
+678,India vs England,Rishabh Pant,6,India,out,6.0,4.0,13.0,1.0,0.0,150.0,1298178
+679,India vs England,Ravichandran Ashwin,7,India,out,0.0,0.0,4.0,0.0,0.0,0.0,1298178
+680,India vs England,Jos Buttler,1,England,out,80.0,49.0,74.0,9.0,3.0,163.26,1298178
+681,India vs England,Alex Hales,2,England,out,86.0,47.0,74.0,4.0,7.0,182.97,1298178
+682,Pakistan vs England,Mohammad Rizwan,1,Pakistan,out,15.0,14.0,24.0,0.0,1.0,107.14,1298179
+683,Pakistan vs England,Babar Azam,2,Pakistan,out,32.0,28.0,58.0,2.0,0.0,114.28,1298179
+684,Pakistan vs England,Mohammad Haris,3,Pakistan,out,8.0,12.0,15.0,1.0,0.0,66.66,1298179
+685,Pakistan vs England,Shan Masood,4,Pakistan,out,38.0,28.0,46.0,2.0,1.0,135.71,1298179
+686,Pakistan vs England,Iftikhar Ahmed,5,Pakistan,out,0.0,6.0,8.0,0.0,0.0,0.0,1298179
+687,Pakistan vs England,Shadab Khan,6,Pakistan,out,20.0,14.0,26.0,2.0,0.0,142.85,1298179
+688,Pakistan vs England,Mohammad Nawaz,7,Pakistan,out,5.0,7.0,11.0,0.0,0.0,71.42,1298179
+689,Pakistan vs England,Mohammad Wasim,8,Pakistan,out,4.0,8.0,12.0,0.0,0.0,50.0,1298179
+690,Pakistan vs England,Shaheen Shah Afridi,9,Pakistan,out,5.0,3.0,8.0,1.0,0.0,166.66,1298179
+691,Pakistan vs England,Haris Rauf,10,Pakistan,out,1.0,1.0,3.0,0.0,0.0,100.0,1298179
+692,Pakistan vs England,Jos Buttler,1,England,out,26.0,17.0,33.0,3.0,1.0,152.94,1298179
+693,Pakistan vs England,Alex Hales,2,England,out,1.0,2.0,6.0,0.0,0.0,50.0,1298179
+694,Pakistan vs England,Phil Salt,3,England,out,10.0,9.0,16.0,2.0,0.0,111.11,1298179
+695,Pakistan vs England,Ben Stokes,4,England,out,52.0,49.0,81.0,5.0,1.0,106.12,1298179
+696,Pakistan vs England,Harry Brook,5,England,out,20.0,23.0,36.0,1.0,0.0,86.95,1298179
+697,Pakistan vs England,Moeen Ali,6,England,out,19.0,13.0,30.0,3.0,0.0,146.15,1298179
+698,Pakistan vs England,Liam Livingstone,7,England,out,1.0,1.0,3.0,0.0,0.0,100.0,1298179
